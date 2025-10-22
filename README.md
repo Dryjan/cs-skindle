@@ -1,0 +1,1 @@
+building web game just like "loldle" (https://loldle.net/), but for weapon skins from cs2 using free api (https://loldle.net/)
