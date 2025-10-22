@@ -7,21 +7,15 @@ let finalJSON = [];
 skinsJSON.forEach(element => {
   if(!['Gloves', 'Knives', 'Equipment'].includes(element['category']['name'])) {
     const skin = {
-      name: element['name'],
-      weapon: element['weapon']['name'],
-      category: element['category']['name'],
-      rarity: element['rarity']['name'],
-      collection: element['collections'][0]['name'],
+      name: element.name,
+      weapon: element.weapon.name,
+      rarity: element.rarity.name,
+      collection: element.collections[0].name,
+      image: element.image
     };
     finalJSON.push(skin);
   }
 });
-
-// finalJSON.forEach(element => {
-//   if(element.collection === undefined) {
-//     console.log(element);
-//   }
-// });
 
 function download(content, fileName, contentType) {
   var a = document.createElement("a");

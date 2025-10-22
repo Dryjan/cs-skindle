@@ -1,4 +1,4 @@
-export const collectionsJSON = [
+const collectionsJSON = [
  {
   "id": "collection-set-community-3",
   "name": "The Huntsman Collection",
