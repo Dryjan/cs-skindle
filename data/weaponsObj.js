@@ -1,4 +1,4 @@
-const weaponsObj = {
+export const weaponsObj = {
   "CZ75-Auto": "Pistols",
   "Desert Eagle": "Pistols",
   "Dual Berettas": "Pistols",

@@ -1,4 +1,4 @@
-const collecionsObj = {
+export const collectionsObj = {
   "The Huntsman Collection": {
     "year": 2014,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_3_png.png"

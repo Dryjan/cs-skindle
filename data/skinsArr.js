@@ -1,4 +1,4 @@
-[
+export const skinsArr = [
   {
     "name": "AK-47 | Searing Rage",
     "weapon": "AK-47",
