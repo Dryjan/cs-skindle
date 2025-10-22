@@ -1,19 +1,17 @@
-import { cratesJSON } from "./crates.js";
-import { collectionsJSON } from "./collections.js";
-import { skinsJSON } from "./skins.js";
+// import { cratesJSON } from "./crates.js";
+// import { collectionsJSON } from "./collections.js";
+// import { skinsJSON } from "./skins.js";
 
 let finalJSON = [];
 
 skinsJSON.forEach(element => {
   if(!['Gloves', 'Knives', 'Equipment'].includes(element['category']['name'])) {
     const skin = {
-      id: element['id'],
       name: element['name'],
       weapon: element['weapon']['name'],
       category: element['category']['name'],
       rarity: element['rarity']['name'],
       collection: element['collections'][0]['name'],
-      crates: element['crates'].length
     };
     finalJSON.push(skin);
   }
@@ -24,5 +22,14 @@ skinsJSON.forEach(element => {
 //     console.log(element);
 //   }
 // });
+
+function download(content, fileName, contentType) {
+  var a = document.createElement("a");
+  var file = new Blob([content], {type: contentType});
+  a.href = URL.createObjectURL(file);
+  a.download = fileName;
+  a.click();
+}
+download(JSON.stringify(finalJSON), 'final.json', 'text/plain');
 
 console.log(finalJSON);
