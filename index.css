@@ -1,0 +1,8 @@
+#results {
+  width: 236px;
+  height: fit-content;
+  max-height: 100px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+}
