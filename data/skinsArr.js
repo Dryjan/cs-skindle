@@ -3007,35 +3007,7 @@ export const skinsArr = [
 		"weapon": "Glock-18",
 		"rarity": "Covert",
 		"collection": "The 2021 Train Collection",
-		"image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_am_emerald_marbleized_glock_light_png.png"
-	},
-	{
-		"name": "Glock-18 | Gamma Doppler",
-		"weapon": "Glock-18",
-		"rarity": "Covert",
-		"collection": "The 2021 Train Collection",
 		"image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_am_gamma_doppler_phase1_glock_light_png.png"
-	},
-	{
-		"name": "Glock-18 | Gamma Doppler",
-		"weapon": "Glock-18",
-		"rarity": "Covert",
-		"collection": "The 2021 Train Collection",
-		"image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_am_gamma_doppler_phase2_glock_light_png.png"
-	},
-	{
-		"name": "Glock-18 | Gamma Doppler",
-		"weapon": "Glock-18",
-		"rarity": "Covert",
-		"collection": "The 2021 Train Collection",
-		"image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_am_gamma_doppler_phase3_glock_light_png.png"
-	},
-	{
-		"name": "Glock-18 | Gamma Doppler",
-		"weapon": "Glock-18",
-		"rarity": "Covert",
-		"collection": "The 2021 Train Collection",
-		"image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_am_gamma_doppler_phase4_glock_light_png.png"
 	},
 	{
 		"name": "Glock-18 | Glockingbird",
