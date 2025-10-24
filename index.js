@@ -9,19 +9,13 @@ function guessFun(skin) {
   divRes.innerHTML = '';
   inputGuess.value = '';
   inputGuess.blur();
-  divGue.innerHTML = '';
 
-  guessesArr.unshift(skin);
   skinsArr.splice(skinsArr.indexOf(skin), 1);
-  console.log(guessesArr, skinsArr);
+  console.log(skin, skinsArr);
 
-  guessesArr.forEach(element => {
-    const guess = document.createElement('div');
-    guess.className = 'guess';
-    guess.style.backgroundColor = raritiesObj[element.rarity];
-    guess.innerText = element.name;
-    divGue.appendChild(guess);
-  });
+  const guess = document.createElement('div');
+  guess.className = 'guess';
+  divGue.appendChild(guess);
 
   if(skin === answer) {
     console.log('you win');
@@ -35,7 +29,6 @@ const form = document.getElementById('form');
 const inputGuess = document.getElementById('inputGuess');
 const divGue = document.getElementById('guesses');
 let resultsArr = [];
-let guessesArr = [];
 
 form.addEventListener('submit', function(event) {
   event.preventDefault();
