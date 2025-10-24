@@ -4,10 +4,11 @@ import { raritiesObj } from './data/raritiesObj.js';
 import { collectionsObj } from './data/collectionsObj.js';
 console.log(skinsArr, weaponsObj, raritiesObj, collectionsObj);
 
-function guess(skin) {
+function guessFun(skin) {
   resultsArr = [];
   divRes.innerHTML = '';
   inputGuess.value = '';
+  inputGuess.blur();
   divGue.innerHTML = '';
 
   guessesArr.unshift(skin);
@@ -15,8 +16,16 @@ function guess(skin) {
   console.log(guessesArr, skinsArr);
 
   guessesArr.forEach(element => {
-    
+    const guess = document.createElement('div');
+    guess.className = 'guess';
+    guess.style.backgroundColor = raritiesObj[element.rarity];
+    guess.innerText = element.name;
+    divGue.appendChild(guess);
   });
+
+  if(skin === answer) {
+    console.log('you win');
+  }
 }
 
 const answer = skinsArr[Math.floor(Math.random() * skinsArr.length)];
@@ -30,6 +39,9 @@ let guessesArr = [];
 
 form.addEventListener('submit', function(event) {
   event.preventDefault();
+  if(resultsArr.length > 0) {
+    guessFun(resultsArr[0]);
+  }
 });
 
 inputGuess.addEventListener('input', function() {
@@ -52,7 +64,7 @@ inputGuess.addEventListener('input', function() {
     result.className = 'result';
     result.style.backgroundColor = raritiesObj[element.rarity];
     result.innerText = element.name;
-    result.onclick = function() { guess(element) };
+    result.onclick = function() { guessFun(element) };
     divRes.appendChild(result);
   });
 });
