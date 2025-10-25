@@ -1,6 +1,5 @@
-import { skinsArr } from './data/skinsArr.js';
-import { collectionsObj } from './data/collectionsObj.js';
-console.log(skinsArr, collectionsObj);
+import { skinsArr } from './dataScripts/skinsArr.js';
+console.log(skinsArr);
 
 const answer = skinsArr[Math.floor(Math.random() * skinsArr.length)];
 console.log(answer);
@@ -33,7 +32,12 @@ function guessFun(skin) {
   guessCol.src = skin.collection.image;
   const guessRel = document.createElement('div');
   guessRel.className = 'guessChild';
-  guessRel.innerText = collectionsObj[skin.collection.name].year;
+  guessRel.innerText = skin.releaseYear;
+  if(skin.releaseYear < answer.releaseYear) {
+    guessRel.innerText += ' ⬆️';
+  } else if(skin.releaseYear > answer.releaseYear) {
+    guessRel.innerText += ' ⬇️';
+  }
 
   const guess = document.createElement('div');
   guess.className = 'guess';
