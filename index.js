@@ -1,8 +1,14 @@
 import { skinsArr } from './data/skinsArr.js';
-import { weaponsObj } from './data/weaponsObj.js';
-import { raritiesObj } from './data/raritiesObj.js';
 import { collectionsObj } from './data/collectionsObj.js';
-console.log(skinsArr, weaponsObj, raritiesObj, collectionsObj);
+console.log(skinsArr, collectionsObj);
+
+const answer = skinsArr[Math.floor(Math.random() * skinsArr.length)];
+console.log(answer);
+const divRes = document.getElementById('results');
+const form = document.getElementById('form');
+const inputGuess = document.getElementById('inputGuess');
+const divGue = document.getElementById('guesses');
+let resultsArr = [];
 
 function guessFun(skin) {
   resultsArr = [];
@@ -13,22 +19,31 @@ function guessFun(skin) {
   skinsArr.splice(skinsArr.indexOf(skin), 1);
   console.log(skin, skinsArr);
 
+  const guessImg = document.createElement('img');
+  guessImg.className = 'guessChild';
+  guessImg.src = skin.image;
+  const guessWpn = document.createElement('div');
+  guessWpn.className = 'guessChild';
+  const guessRar = document.createElement('div');
+  guessRar.className = 'guessChild';
+  const guessCol = document.createElement('img');
+  guessCol.className = 'guessChild';
+  const guessRel = document.createElement('div');
+  guessRel.className = 'guessChild';
+
   const guess = document.createElement('div');
   guess.className = 'guess';
+  guess.appendChild(guessImg);
+  guess.appendChild(guessWpn);
+  guess.appendChild(guessRar);
+  guess.appendChild(guessCol);
+  guess.appendChild(guessRel);
   divGue.appendChild(guess);
 
   if(skin === answer) {
     console.log('you win');
   }
 }
-
-const answer = skinsArr[Math.floor(Math.random() * skinsArr.length)];
-console.log(answer);
-const divRes = document.getElementById('results');
-const form = document.getElementById('form');
-const inputGuess = document.getElementById('inputGuess');
-const divGue = document.getElementById('guesses');
-let resultsArr = [];
 
 form.addEventListener('submit', function(event) {
   event.preventDefault();
@@ -55,7 +70,7 @@ inputGuess.addEventListener('input', function() {
   resultsArr.forEach(element => {
     const result = document.createElement('div');
     result.className = 'result';
-    result.style.backgroundColor = raritiesObj[element.rarity];
+    result.style.backgroundColor = element.rarity.color;
     result.innerText = element.name;
     result.onclick = function() { guessFun(element) };
     divRes.appendChild(result);

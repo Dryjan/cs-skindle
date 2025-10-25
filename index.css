@@ -12,7 +12,17 @@
 }
 
 #guesses {
-  width: 236px;
+  width: 500px;
   display: flex;
   flex-direction: column-reverse;
+}
+
+.guess {
+  display: flex;
+  justify-content: space-between;
+}
+
+.guessChild {
+  width: 80px;
+  height: 80px;
 }
