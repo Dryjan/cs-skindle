@@ -19,17 +19,32 @@ function guessFun(skin) {
   console.log(skin, skinsArr);
 
   const guessImg = document.createElement('img');
-  guessImg.className = 'guessChild';
+  guessImg.className = 'guessChild MJ';
   guessImg.src = skin.image;
+
   const guessWpn = document.createElement('div');
   guessWpn.className = 'guessChild';
   guessWpn.innerText = skin.weapon;
+   if(skin.weapon === answer.weapon) {
+    guessWpn.style.borderColor = 'green';
+  } else if(skin.category === answer.category) {
+    guessWpn.style.borderColor = 'yellow';
+  }
+
   const guessRar = document.createElement('div');
   guessRar.className = 'guessChild';
   guessRar.innerText = skin.rarity.name;
+  if(skin.rarity.name === answer.rarity.name) {
+    guessRar.style.borderColor = 'green';
+  }
+
   const guessCol = document.createElement('img');
   guessCol.className = 'guessChild';
   guessCol.src = skin.collection.image;
+  if(skin.collection.name === answer.collection.name) {
+    guessCol.style.borderColor = 'green';
+  }
+
   const guessRel = document.createElement('div');
   guessRel.className = 'guessChild';
   guessRel.innerText = skin.releaseYear;
@@ -37,6 +52,9 @@ function guessFun(skin) {
     guessRel.innerText += ' ⬆️';
   } else if(skin.releaseYear > answer.releaseYear) {
     guessRel.innerText += ' ⬇️';
+  }
+  if(skin.releaseYear === answer.releaseYear) {
+    guessRel.style.borderColor = 'green';
   }
 
   const guess = document.createElement('div');
