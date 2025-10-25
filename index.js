@@ -24,12 +24,16 @@ function guessFun(skin) {
   guessImg.src = skin.image;
   const guessWpn = document.createElement('div');
   guessWpn.className = 'guessChild';
+  guessWpn.innerText = skin.weapon;
   const guessRar = document.createElement('div');
   guessRar.className = 'guessChild';
+  guessRar.innerText = skin.rarity.name;
   const guessCol = document.createElement('img');
   guessCol.className = 'guessChild';
+  guessCol.src = skin.collection.image;
   const guessRel = document.createElement('div');
   guessRel.className = 'guessChild';
+  guessRel.innerText = collectionsObj[skin.collection.name].year;
 
   const guess = document.createElement('div');
   guess.className = 'guess';
