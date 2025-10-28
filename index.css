@@ -17,9 +17,11 @@ body {
 }
 
 #divGuesses {
-  width: 500px;
   display: flex;
   flex-direction: column-reverse;
+  gap: 20px;
+  width: 550px;
+  margin-top: 25px;
 }
 
 .divGuess {
@@ -27,21 +29,24 @@ body {
   justify-content: space-between;
 }
 
+.guessChild {
+  width: 100px;
+  height: 100px;
+  border: 2px solid red;
+  background-color: #80808080;
+  font-weight: bold;
+  font-size: 120%;
+}
+
 div.guessChild {
-  width: 80px;
-  height: 80px;
   display: flex;
   justify-content: center;
   text-align: center;
   align-items: center;
-  border: 2px solid red;
 }
 
 img.guessChild {
-  width: 80px;
-  height: 80px;
   object-fit: contain;
-  border: 2px solid red;
 }
 
 img.MJ {
