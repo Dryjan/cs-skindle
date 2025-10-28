@@ -16,7 +16,7 @@ let firstResult;
 let guessesCount = 0;
 
 function createResults() {
-  skinsArr.forEach(element => {
+  skinsArr.reverse().forEach(element => {
     const divResult = document.createElement('div');
     divResult.id = element.name;
     divResult.className = 'divResult';
@@ -34,7 +34,7 @@ function showResults() {
 
   firstResult = null;
 
-  skinsArr.toReversed().forEach(element => {
+  skinsArr.forEach(element => {
     if(element.name.toLowerCase().includes(inputValue.toLowerCase()) && inputValue) {
       document.getElementById(element.name).style.display = 'inline';
       firstResult = element;
@@ -42,6 +42,8 @@ function showResults() {
       document.getElementById(element.name).style.display = 'none';
     }
   });
+
+  divResults.scrollTop = -divResults.scrollHeight + divResults.clientHeight;
 
   console.log('firstResult:', firstResult);
 }

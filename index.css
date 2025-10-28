@@ -8,12 +8,12 @@ body {
 }
 
 #divResults {
-  width: 236px;
-  height: fit-content;
-  max-height: 100px;
-  overflow-y: auto;
   display: flex;
-  flex-direction: column;
+  flex-direction: column-reverse;
+  width: 236px;
+  height: 100px;
+  overflow-y: auto;
+  margin-top: 100px;
 }
 
 #divGuesses {
@@ -84,5 +84,23 @@ img.MJ {
   display: flex;
   justify-content: center;
   text-align: center;
+  align-items: center;
+}
+
+#divBackground {
+  position: fixed;
+  z-index: -1;
+  width: 100vw;
+  height: 100vh;
+  background-image: 
+    linear-gradient(to top, black 0%, transparent 100%),
+    url(./background.jpg);
+  background-size: 100% 100%, 100% 100%;
+}
+
+#divContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
   align-items: center;
 }
