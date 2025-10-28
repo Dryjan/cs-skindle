@@ -3,21 +3,50 @@ console.log(skinsArr);
 
 const answer = skinsArr[Math.floor(Math.random() * skinsArr.length)];
 console.log(answer);
-const divRes = document.getElementById('results');
+const divOverlay = document.getElementById('divOverlay');
+const divAnswerName = document.getElementById('divAnswerName');
+const divAnswerImage = document.getElementById('divAnswerImage');
+const divResults = document.getElementById('divResults');
 const form = document.getElementById('form');
 const inputGuess = document.getElementById('inputGuess');
-const divGue = document.getElementById('guesses');
-let resultsArr = [];
+const divGuesses = document.getElementById('divGuesses');
+const buttonRestart = document.getElementById('buttonRestart');
+const divGuessesCount = document.getElementById('divGuessesCount');
+let firstResult;
+let guessesCount = 0;
 
-function guessFun(skin) {
-  resultsArr = [];
-  divRes.innerHTML = '';
-  inputGuess.value = '';
-  inputGuess.blur();
+function createResults() {
+  skinsArr.forEach(element => {
+    const divResult = document.createElement('div');
+    divResult.id = element.name;
+    divResult.className = 'divResult';
+    divResult.innerText = element.name;
+    divResult.style.backgroundColor = element.rarity.color;
+    divResult.style.display = 'none';
+    divResult.onclick = function() { guess(element) };
+    divResults.appendChild(divResult);
+  });
+}
+createResults();
 
-  skinsArr.splice(skinsArr.indexOf(skin), 1);
-  console.log(skin, skinsArr);
+function showResults() {
+  const inputValue = inputGuess.value;
 
+  firstResult = null;
+
+  skinsArr.toReversed().forEach(element => {
+    if(element.name.toLowerCase().includes(inputValue.toLowerCase()) && inputValue) {
+      document.getElementById(element.name).style.display = 'inline';
+      firstResult = element;
+    } else {
+      document.getElementById(element.name).style.display = 'none';
+    }
+  });
+
+  console.log('firstResult:', firstResult);
+}
+
+function createGuess(skin) {
   const guessImg = document.createElement('img');
   guessImg.className = 'guessChild MJ';
   guessImg.src = skin.image;
@@ -25,7 +54,7 @@ function guessFun(skin) {
   const guessWpn = document.createElement('div');
   guessWpn.className = 'guessChild';
   guessWpn.innerText = skin.weapon;
-   if(skin.weapon === answer.weapon) {
+  if(skin.weapon === answer.weapon) {
     guessWpn.style.borderColor = 'green';
   } else if(skin.category === answer.category) {
     guessWpn.style.borderColor = 'yellow';
@@ -57,48 +86,49 @@ function guessFun(skin) {
     guessRel.style.borderColor = 'green';
   }
 
-  const guess = document.createElement('div');
-  guess.className = 'guess';
-  guess.appendChild(guessImg);
-  guess.appendChild(guessWpn);
-  guess.appendChild(guessRar);
-  guess.appendChild(guessCol);
-  guess.appendChild(guessRel);
-  divGue.appendChild(guess);
+  const divGuess = document.createElement('div');
+  divGuess.className = 'divGuess';
+  divGuess.appendChild(guessImg);
+  divGuess.appendChild(guessWpn);
+  divGuess.appendChild(guessRar);
+  divGuess.appendChild(guessCol);
+  divGuess.appendChild(guessRel);
+  divGuesses.appendChild(divGuess);
+}
+
+function guess(skin) {
+  guessesCount += 1;
+
+  inputGuess.value = '';
+  showResults();
+
+  createGuess(skin);
+
+  skinsArr.splice(skinsArr.indexOf(skin), 1);
+  console.log('Guesed skin:', skin);
+
+  inputGuess.focus();
 
   if(skin === answer) {
-    console.log('you win');
+    inputGuess.blur();
+    divGuessesCount.innerText = guessesCount;
+    divOverlay.style.display = 'flex';
   }
 }
 
 form.addEventListener('submit', function(event) {
   event.preventDefault();
-  if(resultsArr.length > 0) {
-    guessFun(resultsArr[0]);
+
+  if(firstResult) {
+    guess(firstResult);
   }
 });
 
-inputGuess.addEventListener('input', function() {
-  const inputVal = inputGuess.value.trim();
+inputGuess.addEventListener('input', showResults);
 
-  resultsArr = [];
-  divRes.innerHTML = '';
-
-  if(inputVal) {
-    skinsArr.forEach(element => {
-      if(element.name.toLowerCase().includes(inputVal.toLowerCase())) {
-        resultsArr.push(element);
-      }
-    });
-  }
-  console.log(inputVal, resultsArr);
-
-  resultsArr.forEach(element => {
-    const result = document.createElement('div');
-    result.className = 'result';
-    result.style.backgroundColor = element.rarity.color;
-    result.innerText = element.name;
-    result.onclick = function() { guessFun(element) };
-    divRes.appendChild(result);
-  });
+buttonRestart.addEventListener('click', function() {
+  location.reload();
 });
+
+divAnswerImage.src = answer.image;
+divAnswerName.innerText = answer.name;

@@ -3,7 +3,11 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
-div#results {
+body {
+  margin: 0;
+}
+
+#divResults {
   width: 236px;
   height: fit-content;
   max-height: 100px;
@@ -12,13 +16,13 @@ div#results {
   flex-direction: column;
 }
 
-div#guesses {
+#divGuesses {
   width: 500px;
   display: flex;
   flex-direction: column-reverse;
 }
 
-div.guess {
+.divGuess {
   display: flex;
   justify-content: space-between;
 }
@@ -34,14 +38,51 @@ div.guessChild {
 }
 
 img.guessChild {
-  max-width: 80px;
-  max-height: 80px;
-  width: auto;
-  height: auto;
+  width: 80px;
+  height: 80px;
   object-fit: contain;
   border: 2px solid red;
 }
 
 img.MJ {
   border-color: black;
+}
+
+#divOverlay {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  z-index: 1;
+  width: 100vw;
+  height: 100vh;
+  background-color: #000000b0;
+}
+
+#divSummary {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  padding: 50px;
+}
+
+#divAnswer {
+  display: flex;
+  gap: 10px;
+}
+
+#divAnswerImage {
+  width: 160px;
+  height: 160px;
+  object-fit: contain;
+}
+
+#divAnswerName {
+  width: 160px;
+  height: 160px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
 }
