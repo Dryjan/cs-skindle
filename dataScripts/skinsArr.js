@@ -74,7 +74,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Rising Sun Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kimono_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kimono.eec9d131eed8efec7910f137cf0cadb710e576c8.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNW0PCvZaZiL8-ZG2mXzetJvOhuRz39lk0m4Dncztz7Jy2fagIoC5t5QeNbskW6xNLgZu-24AXZgt4Xyi_4izQJsHjOr8RS6A"
@@ -346,7 +346,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The St. Marc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_stmarc_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_stmarc.00c570e3e140452c95e68bfa4868c9ce1c5dc1c4.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiFO0POlV61-LPGdCliWzeFkse1WQyC0nQlpsDuGyt-pdnyRPA4hDcYkR-QPuhi-wdPuYbyx5AaMidkQnC_-2ilIuzErvbi4ijV5Mw"
@@ -362,7 +362,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Ancient Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ancient_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ancient.e90a2018381216be882d96c9e6c314d99f5097fa.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiFO0POlV65sJ-WSHFicyOl-pK9sSS-2wEV25z_Qw4mqcn3EOgclCpJ3TbRctELtm9HmNLix4wHc3o5H02yg2Q50xEQx"
@@ -394,7 +394,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Havoc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_t_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_t.18b6dd49906d15a5f44f1477ca6139c7ab491197.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiFO0POlV7x_IemsAm6Xyfo44OQ_Tn3il08k4GzVyo2qeSnDaQAlXpF1RuZZsUO4kNLjNO2w51HWjJUFk3tTkVsnkA"
@@ -586,7 +586,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Dust 2 Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_dust_2_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_dust_2_2021.318944ebb9e3dae51cd87d38b5d3584a2fa9425f.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiVI0POlPPNSJ_-fCliR0-90tfJ4WiyMmRQguynLntmvICieOARzCpMhF-BYsRe-xoHvYu_g5lSNj4NDyy2viCwY6Hlu5_FCD_Q1jEqYuQ"
@@ -730,7 +730,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Vertigo Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_vertigo_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_vertigo_2021.611413bf4d18e0c888054707dff98c612049f097.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wipC0POlPPNhIf2sCXWVxOBJvOhuRz39xUgj4WmByIuqInLCag8jWZJ3F-AL4xi6wd22Ne3rtQLZjYNEnHj92zQJsHgD_GLtVg"
@@ -778,7 +778,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Canals Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_canals_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_canals.56ae4549ece13ec63d017e7fa24dc0283572670f.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wipC0OSrZqF5L8-DG3WAzetJvOhuRz39wEgl6jyBwtqtJS6QbFRzApIkR-YLsRe6wdDvZung4gHbjd4XyH7_iTQJsHhGzMbuTA"
@@ -906,7 +906,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Train Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_train_2021.a000b6d4ae1978aeced8ec31aa8ef5a0014dae29.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf_CNk6fOqbZtgJeSSAmuZwtF6ueZhW2fizUlwsmuEytmvJHzGaQJyXMclEbYCuhPtkdHmPrvqsVaL3osTmyj6kGoXuZFFysy6"
@@ -954,7 +954,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The St. Marc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_stmarc_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_stmarc.00c570e3e140452c95e68bfa4868c9ce1c5dc1c4.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf_C9k7f6hZ6lSIvyGC1icyOl-pK8-FnDrlE8k62uAytipeSqRaFcoC8BwQbIM5xjtwdWzMr6ztAPd2YNA02yg2RS7P3lf"
@@ -986,7 +986,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Control Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ct_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ct.aaf2dd57a339a610de6f4514a76eb1e846647cc0.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf_C9k5vy6bahhKfeWAGSV_ulktfhWQyC0nQlp42TWmI2seXOUb1UgXJp3F-ZbsxixltbiNLvl7gza3olCyST-i3wa6zErvbj9bg91yA"
@@ -1002,7 +1002,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Ancient Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ancient_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ancient.e90a2018381216be882d96c9e6c314d99f5097fa.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf_C9k5fOqbZthKfebGimWkLlytrI5TXrlwBx-sGyGw9-gcC-fZgAhCpRwQbRbtxe4kdSxP7vm-UWA3MgZU-ku"
@@ -1018,7 +1018,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Norse Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_norse_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_norse.d91172d71b95efb4e334d194cf6b0a5ab9621e8c.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf_C9k5f28ZZtiMvGdCWKvzedxuPUnTn7glkly423Xy4yoJHOWaFR0A5YlQrNc5xXrm93hZejntQWN3YNCzzK-0H2szzSoFw"
@@ -1114,7 +1114,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Rising Sun Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kimono_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kimono.eec9d131eed8efec7910f137cf0cadb710e576c8.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf_jdk7vynZaFSIeWUMWuZxuZi_rZvSXDgzUV_tWWAydyqI3mQbVMiWJolTLQOtBS4w4a1MuznsVHa3YlbjXKpUc8HttI"
@@ -1274,7 +1274,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Mirage Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_mirage_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_mirage_2021.f1c9b5169b9fb9d6e0933baba0514dd34d6c9e19.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf-jFk7uepV7dsLvSsHXOf0-NJvOhuRz39kxtzt2jcyNqsdy2TawElApolF7Zf50bsl9fvZuq05waMi44XyX3-2zQJsHjlDs_LaQ"
@@ -1386,7 +1386,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Dust 2 Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_dust_2_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_dust_2_2021.318944ebb9e3dae51cd87d38b5d3584a2fa9425f.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf9Ttk6-C3V7NiL_SsAm6Xyfo44-JsFiy3wBkl6miBmNz9IHrEbAZxDZciEO8Kuxbtm93gP-Lgtlbe35UFk3vZ4ja9kg"
@@ -1450,7 +1450,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Canals Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_canals_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_canals.56ae4549ece13ec63d017e7fa24dc0283572670f.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf9Ttk4ue8aapiH_KfG2KvzedxuPUnF3rgl0R-5DjXn4z7Ii_GbQEhC5VzQrNZuxW5l9ayY77g4gDa2tgWmzK-0H0vbAfLTQ"
@@ -1530,7 +1530,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Gods and Monsters Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_gods_and_monsters_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_gods_and_monsters.c66f30b18e90e05e6a727c5cda23912ffe49ffaf.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf7jJk4_OscbZkLuSbXVicyOl-pK8wGyy3zEl25jjVwtareXqUbQN0CpZzTLNYuhm7kYe1MLy3tAzei4JG02yg2fD5c25_"
@@ -1578,7 +1578,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cache Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cache_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cache.1bdc24f9fbd7532a2eb3e26d6ac33e52fc4a0efc.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf7jJk4eelbbd5MvmDC1if0-94t-RWTjy0qhEutDWR1N__dX2WOlIoX8N4QOYDu0K6kILuM-m05ASP3YJFz3r3jy0buio_4uYcEf1yDazvhM4"
@@ -1594,7 +1594,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Control Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ct_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ct.aaf2dd57a339a610de6f4514a76eb1e846647cc0.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_CNk7uW-V6JsJPWsAm6Xyfo45-c5GXDnwB534DuEwtuoIHOfaAYiAsYjF-QItUaxmoC0MO_h5ALcjJUFk3sEzfdk4w"
@@ -1674,7 +1674,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Havoc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_t_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_t.18b6dd49906d15a5f44f1477ca6139c7ab491197.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_C9k-_upbbZ-H_KfG2KvzedxuPUnTXywkU1x4DvXztz_dH2WZlQkXMEhFrFY5BDrm9HhMurq4AfdiYxAnDK-0H0fPMTeBA"
@@ -1978,7 +1978,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cobblestone Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cobblestone_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cobblestone.7f470f4ad76920182d29cafc4a7fcbbb5de0e3ec.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk4veqYaF7IfysCnWRxuF4j-B-Xxa_nBovp3Pdwtj9cC_GaAd0DZdwQu9fuhS4kNy0NePntVTbjYpCyyT_3CgY5i9j_a9cBkcCWUKV"
@@ -1994,7 +1994,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Gods and Monsters Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_gods_and_monsters_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_gods_and_monsters.c66f30b18e90e05e6a727c5cda23912ffe49ffaf.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk4veqfbdsH_GEHlicyOl-pK85TC23wk12tWSGnNr6JXqRPVUnA5J5RLIKshS-l4HuYbji7lfajdgU02yg2bOcOBD3"
@@ -2058,7 +2058,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Canals Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_canals_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_canals.56ae4549ece13ec63d017e7fa24dc0283572670f.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf-jFk7uW-V6FjIf2WAlicyOl-pK9qHXHkw093sGvTw4uqJSnDPQAkCsNyEbZcshiwxtK0Yumz4gbX2o9C02yg2f5NtC8l"
@@ -2090,7 +2090,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Norse Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_norse_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_norse.d91172d71b95efb4e334d194cf6b0a5ab9621e8c.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf-jFk7uW-V6N4LvedB3WvzedxuPUnHnjnzUl0sWrdztitI3rDZgJzAsZ1QOFY4UPqldDgMO_l41HXit9AmTK-0H227dAsvQ"
@@ -2106,7 +2106,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Mirage Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_mirage_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_mirage_2021.f1c9b5169b9fb9d6e0933baba0514dd34d6c9e19.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf-jFk7uW-V6x0JOKSMWuZxuZi_uA7Syu2w0Ry4mqGzYypeH3DaAEnCpt0FuAK4RjrkoDgMb7mtFfcit5bjXKpX4RFZcA"
@@ -2202,7 +2202,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Overpass Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_overpass.3b85a46ee2d4424367831a3f5994bf59f19f08bd.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf9Ttk6_a-abBSMPmdBVicyOl-pK9qHXC2zUpz5DiBn9arJCmXOFd0DZpxQOUDtBC6wNK0MOzl4wXWjYpG02yg2c9nQ1pb"
@@ -2266,7 +2266,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Train Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_train_2021.a000b6d4ae1978aeced8ec31aa8ef5a0014dae29.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf9Ttk-_etYKpiN_GBMXWHw9F6ueZhW2fikxgjtmjTzd-ucXOXbgEiCZN1QOcKtka_l9PgY7jrswbe2t5NyC_6kGoXuXrlRr9k"
@@ -2298,7 +2298,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Gods and Monsters Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_gods_and_monsters_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_gods_and_monsters.c66f30b18e90e05e6a727c5cda23912ffe49ffaf.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf9Ttk9f2qYaVucs-fB2CY1aAnteVqHCzgkRsh4TnXyY2vIH-QaVcpA5F3TOdct0S_wNO0Zri05wbXlcsbmn9hB4gb"
@@ -2346,7 +2346,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Vertigo Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_vertigo_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_vertigo_2021.611413bf4d18e0c888054707dff98c612049f097.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1a7s25YbZkLvesAm6Xyfo45-c-SXvhzUl352rSm9eqdS3DPQBxCJMjQuBYtRDsmtDmM77i51HcjpUFk3uv8knCxA"
@@ -2618,7 +2618,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Rising Sun Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kimono_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kimono.eec9d131eed8efec7910f137cf0cadb710e576c8.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1T9s2saalvL_-sBHKexuJzj-hnRBa_nBovp3OAm9qhc3ySOlVxXJQkEeZf5BK9k4LhM7vqsVbWgosRmHmrj3lMvyZs_a9cBpyTCsd5"
@@ -2682,7 +2682,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Mirage Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_mirage_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_mirage_2021.f1c9b5169b9fb9d6e0933baba0514dd34d6c9e19.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1T9s2iYb5sMvSsHWyZz9F6ueZhW2e2xkpytWjTydaqeHKXbAJyApN4QuUOtkG8wNTiMLm3tAKM2Y9Hny75kGoXub_Drj6P"
@@ -2698,7 +2698,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Havoc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_t_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_t.18b6dd49906d15a5f44f1477ca6139c7ab491197.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1T9s2gbbZiJPmSMWuZxuZi_rNrHCjkw09_5mzUz4uudSrEb1QiWcd0RLMDsEK7kILkMO2071aLj41bjXKpFxy7d4g"
@@ -2778,7 +2778,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The St. Marc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_stmarc_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_stmarc.00c570e3e140452c95e68bfa4868c9ce1c5dc1c4.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1I4M2vebFsH-OHA2aCwtF6ueZhW2exxhh-6mWHnI76dn2Sb1MiDsFyQbFZsELtxNTmMerg4VDd2YxAyiqtkGoXuSVM9Bwl"
@@ -2794,7 +2794,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cache Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cache_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cache.1bdc24f9fbd7532a2eb3e26d6ac33e52fc4a0efc.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1I4M2peqF0H_6GDWuVwPxJt_NsSieMlxQ9vDO6lob-KT-Jbg8oW8R0TeALsxbql4K0Prjg5g3c2oJCyXn7jXkf73lq5O0GBfYm8rqX0V9pS7L6MA"
@@ -2906,7 +2906,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Chop Shop Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_chopshop_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_chopshop.b6ed206d7164f48594212559a70312123a12f9b5.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1a4s2veql0H-ObB2mV_uJ_t-l9ASrgl0lzsWSDytatICnDaVQmWZt3Q-MJsxS4m4DgYuuz7w2L3ogRyivgznQeVdjncD8"
@@ -2938,7 +2938,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Norse Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_norse_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_norse.d91172d71b95efb4e334d194cf6b0a5ab9621e8c.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1a4s2ter1-NPGfAm6KxOpJt_NsSieMmRQguynLyNivIn6XPFUnXsYmFuNbukK6ltfiYeux5A2M2dgXyCqo2igY7yhutfFCD_SCQHbp0w"
@@ -3034,7 +3034,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cobblestone Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cobblestone_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cobblestone.7f470f4ad76920182d29cafc4a7fcbbb5de0e3ec.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1a4s28Z71sLM-fB2CY1aBzsrQ5HnyyzBh25jzcyI3_dyqXaFcmC8ByReBZuxi-lYXlMei05FSPlcsbmsOlfuvI"
@@ -3050,7 +3050,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Chop Shop Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_chopshop_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_chopshop.b6ed206d7164f48594212559a70312123a12f9b5.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1a4c2rZaF_IfyXMWuZxuZi_rNsFyzqzUhy4zzWmdqvdnPFbQYoCpolQeMOuxHum4HnMbjl4FCM2I1bjXKpBQcUgmo"
@@ -3066,7 +3066,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Ancient Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ancient_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ancient.e90a2018381216be882d96c9e6c314d99f5097fa.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1a4c29Yah7JeKsAm6Xyfo457c5Gn7nwEV-6jvRy96rcHPEPwcpDcZ4RrQItxHsk9bnMOrg5QKPi5UFk3v7O4lRrA"
@@ -3290,7 +3290,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Train Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_train_2021.a000b6d4ae1978aeced8ec31aa8ef5a0014dae29.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1c_M26eqVkLs-QFDDF_uJ_t-l9ASjglxhw52rQy974IirCa1UiC5R4RbJbsxjrk9SxMb7k4lfZ2o9AzirgznQeG7VwMmI"
@@ -3338,7 +3338,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Vertigo Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_vertigo_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_vertigo_2021.611413bf4d18e0c888054707dff98c612049f097.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1T9s24bbZ5KfecB2uc1P1_v-9WQyC0nQlp4WrQn42pIiqTZlQpXMByE-8Mu0Huxte0Y-zl41Pci4lFxST_33lA6TErvbh9z0zyoQ"
@@ -3370,7 +3370,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Canals Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_canals_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_canals.56ae4549ece13ec63d017e7fa24dc0283572670f.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1I4M2nZqBkJ_-sD2mU_ulktfhWQyC0nQlp5zmGzo2rcXnDbFJxDZoiRrII40Puw9a2YeOwsgbdjNlCnCSoiilK6TErvbj4Q9U5dw"
@@ -3386,7 +3386,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Overpass Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_overpass.3b85a46ee2d4424367831a3f5994bf59f19f08bd.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1I4M2heqVjJ_WsD2STxOBio7NWQyC0nQlptWvXw9_7I3zCaVB1C5YkTeAIsRC8m9a1MePg5VGLiI9CnH772C9AuDErvbi4qlLcDQ"
@@ -3434,7 +3434,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Mirage Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_mirage_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_mirage_2021.f1c9b5169b9fb9d6e0933baba0514dd34d6c9e19.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1I_82-aahgH_6aCW-E_uJ_t-l9ASiwl0lw5z_Unt_9IHqRbwV1X5QmFuJZtxi-l9HuML7htgGN3t1NzSjgznQe0h5WimA"
@@ -3450,7 +3450,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Control Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ct_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ct.aaf2dd57a339a610de6f4514a76eb1e846647cc0.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1I_826abRoH-ObAXWE_uRjvuZlSha_nBovp3PQyt2reHrGPAQiDJYjTOQItRDpwd3kZO23sQLY3Y0TmX75iXxB631i_a9cBsRmAsJf"
@@ -3546,7 +3546,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Havoc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_t_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_t.18b6dd49906d15a5f44f1477ca6139c7ab491197.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-RYKFkM-SsHmuRz_1JoPR7XyW2qhEutDWR1I6uJH-RPQInXJB0F-Vb50bqxt3kN-Kw4VCMjYxCyXmvj3hO6X05t-8cEf1yxd2V6Eg"
@@ -3562,7 +3562,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Norse Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_norse_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_norse.d91172d71b95efb4e334d194cf6b0a5ab9621e8c.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-RYqt_Lc-UHGKVz9F6ueZhW2fqzB51sGiGzNqrJXqWbAYmCpJ0RuYDshm_xNPmZuy07wDY3YwXni6okGoXuekvMmaE"
@@ -3578,7 +3578,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Control Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ct_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ct.aaf2dd57a339a610de6f4514a76eb1e846647cc0.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-RZrFgIvWBHViS0-F4quRWQyC0nQlp4muHzt78cXqXbQInCZFzTbEO4xS4lYKzMOnqtQTf3osQm36v3SJMujErvbh3QIzNUw"
@@ -3610,7 +3610,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Rising Sun Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kimono_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kimono.eec9d131eed8efec7910f137cf0cadb710e576c8.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-Re6FsM-ScHGqvw-J5v-VWQyC0nQlp52nQn434cC7EblUmCpQmFONYtxCwxIW0Zrvk4ASIiI8UxHn82ika7zErvbhCT1u8fA"
@@ -3626,7 +3626,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Rising Sun Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kimono_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kimono.eec9d131eed8efec7910f137cf0cadb710e576c8.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-Re6FsM-ScHGqvzedxuPUnGXC3kR904myGyd79eXmUZwYlDsNyQe4JtkWxx9LgYuPrsVaNg99HzDK-0H3GwZY3mA"
@@ -3642,7 +3642,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Rising Sun Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kimono_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kimono.eec9d131eed8efec7910f137cf0cadb710e576c8.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-Re6FsM-ScHGqv0uZ5uu5WQyC0nQlp4DiDyov6JH7FZgAmX5N5F-RZ5hntw9HlNuPkswLa2d1NzCv63S0cvTErvbieIVxaew"
@@ -3754,7 +3754,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cobblestone Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cobblestone_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cobblestone.7f470f4ad76920182d29cafc4a7fcbbb5de0e3ec.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uORYKVjJPOSAGmfz9F6ueZhW2eww0t-6mrUn977cinDZ1IgD8YiTeUIthjpk9zkYem04wTXj4oRnCv7kGoXuTIzWSlA"
@@ -3978,7 +3978,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Mirage Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_mirage_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_mirage_2021.f1c9b5169b9fb9d6e0933baba0514dd34d6c9e19.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6OGRbKFsJ_yWMWGVz-Bzs95lRi67gVN14GvRyt77cnKfagRyXsMiTeUNtRO5kYWyYr7i4lfZgoIUzX722CpO8G81tMpbNfMB"
@@ -4026,7 +4026,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Overpass Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_overpass.3b85a46ee2d4424367831a3f5994bf59f19f08bd.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk5-uRbKB9IeSsG3WS_uJ_t-l9AXm2kxkk42rWn9egc36UOwYiX5N1EOVYsRLtldC0M77g5QXfiN1Fzn_gznQemk8fKYk"
@@ -4090,7 +4090,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Chop Shop Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_chopshop_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_chopshop.b6ed206d7164f48594212559a70312123a12f9b5.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk_P2RZq1qKOSsAm6Xyfo4seVrHHjmzRhz42XUm4mgIC6TaQYkXpMjTLIIsRawl9HhYbzktFPfgpUFk3u310nzMg"
@@ -4122,7 +4122,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Train Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_train_2021.a000b6d4ae1978aeced8ec31aa8ef5a0014dae29.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk_OKRe7RsI_WBD2SV_ux6peRWQyC0nQlp5W6Hydz_In7CPQMjWcYmQrZZ5xLumtCxZrnhsQ2I3dkTmCz5jyoaujErvbhRuDcF4A"
@@ -4154,7 +4154,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Havoc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_t_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_t.18b6dd49906d15a5f44f1477ca6139c7ab491197.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1a4s2mba1-NM-DAmae0tFxouRsQRa_nBovp3OEn437c3yTZlJ0DpB3QORfshS8xIfjYe3n7wTbi98Wzn2o2ilPuilv_a9cBr2drwX0"
@@ -4186,7 +4186,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Canals Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_canals_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_canals.56ae4549ece13ec63d017e7fa24dc0283572670f.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1a4c2rZaF_IfyXMWuZxuZi_uBrF3u3zE5xsWjTzIr7eHKeaVIpCpd5QOIC5xi_w9PjY-2x4QDd3opbjXKpzqjop3Y"
@@ -4538,7 +4538,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Chop Shop Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_chopshop_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_chopshop.b6ed206d7164f48594212559a70312123a12f9b5.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1c_M2jZ7BlJeKsAWGv0et3ou1WSiW6gRgYvzSCkpu3dn-RaFdzDZV4F-RZtxW7w9fgM--x5geNjooUyH3-iS5K53pq47wLUr1lpPNOmOBZwg"
@@ -4554,7 +4554,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Norse Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_norse_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_norse.d91172d71b95efb4e334d194cf6b0a5ab9621e8c.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1T9s2pbah9Jf6sCmaCytF6ueZhW2fhzU8l4G3dyYr4d3jCPAd1AsdwQ-QD5hS7x9XlZOi35wGM2IMWzX2vkGoXuX-7oZQZ"
@@ -4586,7 +4586,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Control Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ct_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ct.aaf2dd57a339a610de6f4514a76eb1e846647cc0.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1T9s2gfalvJeKAMWCCxOt4j-1gSCGn20104juHydqtcnLBblAiWMdxQrUKsEG-wd3iPrmx5gGNiNgXznqtiCNXrnE8feK4iuw"
@@ -4602,7 +4602,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cobblestone Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cobblestone_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cobblestone.7f470f4ad76920182d29cafc4a7fcbbb5de0e3ec.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1T9s24YapoM8-fB2CY1aAn4rlsTnzhxxhx5TuHwt76cXuXbVApApV0TLJctxm9kd3vZL-35wTWlcsbmthIan4W"
@@ -4618,7 +4618,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Gods and Monsters Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_gods_and_monsters_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_gods_and_monsters.c66f30b18e90e05e6a727c5cda23912ffe49ffaf.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1T9s20Z6BkIfPCMWuZxuZi_rFtFnC1zB9-tW_cz9z6dnvEbw4jD5MiRbMDs0Xqm9G1Ybvgs1bc3oJbjXKpy-pewO4"
@@ -4746,7 +4746,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Mirage Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_mirage_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_mirage_2021.f1c9b5169b9fb9d6e0933baba0514dd34d6c9e19.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1I_82qer1SN_-cClicyOl-pK87GXGwlkxx5TnRnon4IHvCPAIiW8dxQ7Nc50K6l4XhY-m04QLdjo9N02yg2cWHvD9Z"
@@ -4778,7 +4778,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Vertigo Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_vertigo_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_vertigo_2021.611413bf4d18e0c888054707dff98c612049f097.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1I_82rZqNkLvWsCm6C1fdJvOhuRz39x0txtzuHn9j_cn6VbVMiCpJ4Q-MCuhDukYXnN-7q4wTbjIlGzij9jzQJsHgVbYzf3Q"
@@ -4794,7 +4794,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Vertigo Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_vertigo_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_vertigo_2021.611413bf4d18e0c888054707dff98c612049f097.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1a7s25YbZkLvesF2KczeFhj-1gSCGn20lw5GuBwov8InnFOgdyCMByROUNtRe9ltzuZenrtQTdi95Cmy73jHlXrnE8IJYzfbc"
@@ -4826,7 +4826,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Train Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_train_2021.a000b6d4ae1978aeced8ec31aa8ef5a0014dae29.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1a4s2gfadhJfGBMXeR1fpzou89cC-ymBw0jDGMnYftb3rDPQMhXppwRudet0O4xNLhMu7r7leMiY9Cmy34i39L7C9ssucBAvA7uvqAFyvbTO4"
@@ -4842,7 +4842,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cache Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cache_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cache.1bdc24f9fbd7532a2eb3e26d6ac33e52fc4a0efc.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1a4s2gfadhJfGBMXSb1OJ6o7NWSSi-lA4YvzSCkpu3dnvGPQAkCsMkRLQL5hW6ktC1Pu_h7lHWjY5Fznr-inkY6SxpsO5XAr1lpPPtc2FJkw"
@@ -4858,7 +4858,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Control Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ct_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ct.aaf2dd57a339a610de6f4514a76eb1e846647cc0.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1a4s2gfalvJeKAMWqRxut4pOBWQyC0nQlp5m7Tmd39cSmSZwUlDZJwTLFZsUW5kIKyNbji71aLj4pDxX38h3wfuDErvbhergaiXw"
@@ -4874,7 +4874,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Ancient Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ancient_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ancient.e90a2018381216be882d96c9e6c314d99f5097fa.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1a4s20baZ_Ic-XD3Wb_uJ_t-l9ASywkUsmsjzdmdiqIiqXaQ4oDJF0RuNZukO-ltflNu_mslffg9gTnC3gznQeYZiQwTg"
@@ -5242,7 +5242,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Mirage Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_mirage_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_mirage_2021.f1c9b5169b9fb9d6e0933baba0514dd34d6c9e19.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1T9s24abZkI_GeAViUxP1zovVWQyC0nQlp4WXRn9qqI3uVblQgApJzELVb5BHqlYC1MePr71TXi91AzCz33S9KujErvbjpBPXbmw"
@@ -5338,7 +5338,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Norse Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_norse_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_norse.d91172d71b95efb4e334d194cf6b0a5ab9621e8c.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1I_82lZqt5M8-RAnKV_uJ_t-l9AXHrxEV-sT-Ez9j7eHuVPQQgXpIhEOQPtxa_wd3gZbnm4QHXi49FxCXgznQeEWoLaGo"
@@ -5370,7 +5370,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The St. Marc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_stmarc_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_stmarc.00c570e3e140452c95e68bfa4868c9ce1c5dc1c4.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1I_82-aahgH-OGAHSV1dF6ueZhW2frzEQhsWrRzNqoIHjCbgR1C5ZxRuIPsUO9l9XiYrnh7lPdj90Uni__kGoXuWBgr_h1"
@@ -5434,7 +5434,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Control Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ct_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ct.aaf2dd57a339a610de6f4514a76eb1e846647cc0.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRaaVSJvGXC1iCxOpJsu18Sha_nBovp3OEmY2vIi_FagEoDMMjQuMKthDqm9TjP-O3sVSLio0Qnnr22i0f7C9t_a9cBnO-dw69"
@@ -5738,7 +5738,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Vertigo Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_vertigo_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_vertigo_2021.611413bf4d18e0c888054707dff98c612049f097.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSNvWBGm6XztFwufdsXCylkBMYvzSCkpu3Ii-QbQ51XJpzQ-8PsUOwmoLvZLm3sQfb3tkTxHj-hytBv35jt7wFBL1lpPNwauo7lw"
@@ -5802,7 +5802,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The St. Marc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_stmarc_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_stmarc.00c570e3e140452c95e68bfa4868c9ce1c5dc1c4.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRYL1SIuWXMXWVxdF6ueZhW2ewkE5162rRnNerIy6WagApDptyRuVZshbql9DuMOPj71CI2YoRzyqokGoXufqVyZvA"
@@ -5882,7 +5882,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Rising Sun Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kimono_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kimono.eec9d131eed8efec7910f137cf0cadb710e576c8.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRYL1SK_meAWmf_up_sexmQS2gqhEutDWR1In4di-TagIkXMMiF-Vcthm5kNbvML604Ffdgt4WzCj22ikau35q4OwcEf1ySWJgvKc"
@@ -5914,7 +5914,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cache Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cache_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cache.1bdc24f9fbd7532a2eb3e26d6ac33e52fc4a0efc.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRe6tSJ-KWF1ie1O16teB7cCahlBMgtgKDk5n8HjjCKFN-Zc4pEr9OrBm4xN3vNrix41aIjtkQyH-s2ipMvSY_sOxRBaFx-vCE3AuXYLE_45kdZKHwQRxY8PU"
@@ -5946,7 +5946,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Chop Shop Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_chopshop_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_chopshop.b6ed206d7164f48594212559a70312123a12f9b5.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRe6tSL-KSAGCV_u91s-RnWzqMmRQguynLy9ugci3EZlUpDMYjTOID4EPrxNTvZO224QWM3o9NniWs23lP5nw9tfFCD_Qs49oXvw"
@@ -6026,7 +6026,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Dust 2 Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_dust_2_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_dust_2_2021.318944ebb9e3dae51cd87d38b5d3584a2fa9425f.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRe7RSLf-BAViExPZiue1scDmmhw0rtgKcn4P1Ljz4Ml93UtZuReJcshe5m9HuYunhsQ3dgowWnCqviSgduC1q5OgGBKN0r6Le2gnHZKp9v8fcyxvZMw"
@@ -6058,7 +6058,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Ancient Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ancient_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ancient.e90a2018381216be882d96c9e6c314d99f5097fa.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1a4s2vZqdkJf6HMXCZz-tJvOhuRz39zE5ysWjSyterJX-VZ1UgX8EhTeVf5EOxlN3jYemwsw3WjtgQzi7-2zQJsHjSk9PLGw"
@@ -6090,7 +6090,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Canals Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_canals_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_canals.56ae4549ece13ec63d017e7fa24dc0283572670f.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1a4s2jfbZsLv-sGG6fzetij-1gSCGn2050tmuDn9v8JXmXPwclD5txROII40G-l9S1Mb-04lGIit5Mm3qt2HtXrnE8WK3_Jks"
@@ -6106,7 +6106,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Gods and Monsters Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_gods_and_monsters_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_gods_and_monsters.c66f30b18e90e05e6a727c5cda23912ffe49ffaf.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1Y-s2tYLZiLv-AMWDD0uknj-1gSCGn20R1sG3dyt2qdyiWbwB2A8R0QeJcska6x9znNurrsgWNjooWxX37iyhXrnE8dtReaHc"
@@ -6362,7 +6362,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Rising Sun Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kimono_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kimono.eec9d131eed8efec7910f137cf0cadb710e576c8.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1T9s2lYaliLv-sCm6RzOF4tPJWQDuymxoijDGMnYftby6RPwN1DZQmTbYL5kO9mt2zN-3j4wSKjdpDmy2tjCNN6ik45ewAAKs7uvqAyDUCDXE"
@@ -6490,7 +6490,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Dust 2 Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_dust_2_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_dust_2_2021.318944ebb9e3dae51cd87d38b5d3584a2fa9425f.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1I_82jZ7ZiH_OSHHGZz-lJvOhuRz2xmQgijDGMnYftby2eOgEiDsMmReUDs0G5m4fhM7zm4ADY2d9FzyT_33kfvylp4utQV6E7uvqAlSn4mj4"
@@ -6538,7 +6538,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Dust 2 Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_dust_2_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_dust_2_2021.318944ebb9e3dae51cd87d38b5d3584a2fa9425f.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0POvV6JsJPWsA2KEwOJ6ueJWQyC0nQlp52uGm9yodC3GZ1d0CMdyQeJctRDqmtayY-Kz71fW2IIUziz8intK6TErvbiZh4dEMQ"
@@ -6554,7 +6554,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Rising Sun Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kimono_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kimono.eec9d131eed8efec7910f137cf0cadb710e576c8.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0POjV6NoL_2WGnWZwtFlpOR5XBa_nBovp3Pdzo6hcH6Ta1RxWZslRuYC4xG9x4bgP-zj4wfY2YoQzyT43XhA7Shq_a9cBkjd5CSZ"
@@ -6602,7 +6602,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cache Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cache_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cache.1bdc24f9fbd7532a2eb3e26d6ac33e52fc4a0efc.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0PG7V6doMvKBG3Svxu96ue1WQyC0nQlpsTjVzdb8IH-UOw8lX8B5EeYJ40a8k4XnPuvqsgzYjt0QnCyqh3wb7DErvbjusqqqdw"
@@ -6938,7 +6938,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Ancient Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ancient_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ancient.e90a2018381216be882d96c9e6c314d99f5097fa.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0Pq3V7Z4Kf6AMXWVxdF6ueZhW2fnlBkl427dno2rcXLBagYjDMN0Qu8Ls0a9wIK0PrvhtlHYgogTyy_5kGoXuQFMiuDz"
@@ -6970,7 +6970,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Chop Shop Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_chopshop_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_chopshop.b6ed206d7164f48594212559a70312123a12f9b5.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0Pq3V7JsMvmQD2qf_vtksuBncCW6khUz_TiDz9b8dXKQaAZ0X8MiRLVZ4RXslIflN-_g4gKIit1BnHn4iSNBvCl1o7FV6ub4EBU"
@@ -7034,7 +7034,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Norse Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_norse_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_norse.d91172d71b95efb4e334d194cf6b0a5ab9621e8c.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0OGhV7BiMv6SCmivzedxuPUnGHGywEtysm7Xy9qudXqWbwZ1XsRxQeIDs0W7mtbkM-ux4VCL3oxCmDK-0H3kO6HdPw"
@@ -7114,7 +7114,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Vertigo Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_vertigo_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_vertigo_2021.611413bf4d18e0c888054707dff98c612049f097.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0OG-V6NsLPmfMWSR1Pp_v-9WQyC0nQlpsmnQwoqgIHuWa1QnC5EjRuJcsRi6lNfvPuvi7wPajo9Bziys23xIujErvbiCbfcatA"
@@ -7178,7 +7178,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Havoc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_t_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_t.18b6dd49906d15a5f44f1477ca6139c7ab491197.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0OG-V7RlL_WdB3-v1e9xo955WjujmRgYvzSCkpu3JyqTblQhX5dxTeMJ40Pux4C2MOyw51DXjYtAyH7_jy9JuCk45LpWWL1lpPNjwyLnRw"
@@ -7258,7 +7258,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Chop Shop Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_chopshop_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_chopshop.b6ed206d7164f48594212559a70312123a12f9b5.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1a4s2vebFsH_afC2Sb0tF6ueZhW2e3zR9-5mjcztv8cnjBbQMiA8ZzFLUKtBbsl4LuY77q4AHdj4pNmCz-kGoXudhVSAZp"
@@ -7306,10 +7306,10 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Train Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_train_2021.a000b6d4ae1978aeced8ec31aa8ef5a0014dae29.png"
     },
     "releaseYear": 2021,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_am_gamma_doppler_phase1_glock_light_png.png"
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1a4s2paalgIc-XAXeAzetkj_FhTjq2xCIgvzKGkbD1KCzPKhhzD5d3QORbuxjrk4C1NLzm5Abcj44Uyi342HlI6ixi5edRAKp0-KGBkUifZrIv8MDM"
   },
   {
     "id": "skin-c35e4824fa14",
@@ -7322,7 +7322,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cache Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cache_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cache.1bdc24f9fbd7532a2eb3e26d6ac33e52fc4a0efc.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1a4s2gfadhJfGBMXeR1fpzou84cC6_mh4sjDGMnYftb3yTbAQjA5NxR-4MtRjumtzkM-yzsVDegtkWyyX43ytBvC9tsrpRAKE7uvqAUKOQcp4"
@@ -7626,7 +7626,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Havoc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_t_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_t.18b6dd49906d15a5f44f1477ca6139c7ab491197.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1Y-s2jZ6poOc-UAmiTytF6ueZhW2eww0wmtz6Hz92hd3iUPwIhWZtzQ7UP5ha7kd22N-7j4gTZ345BnH_5kGoXuXiKVoel"
@@ -7834,7 +7834,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Mirage Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_mirage_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_mirage_2021.f1c9b5169b9fb9d6e0933baba0514dd34d6c9e19.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1T9s2qbLRsNM-DB2mb_uJ_t-l9ASi2lBgjsmjSm4ugeX6WO1AoCsElFuEIuhC6xta2Zbmw5gCMjtlAni3gznQeU26CORw"
@@ -7850,7 +7850,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The St. Marc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_stmarc_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_stmarc.00c570e3e140452c95e68bfa4868c9ce1c5dc1c4.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1T9s2ibaVrH_KfG2KvzedxuPUnGnuywx4h52nQzomsInmVbw8mCZAhR-UP4BHpldXhZevn7wXc2dkUnjK-0H1CafWWiA"
@@ -7914,7 +7914,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Overpass Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_overpass.3b85a46ee2d4424367831a3f5994bf59f19f08bd.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1I4M2gYaNlNM-fB2CY1aAmtOU-S33jwEwhtWvdzIr4cHvCPwR1DZdxQrFZt0bsloLjP7jg4VGMlcsbmvNarNNc"
@@ -7994,7 +7994,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Vertigo Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_vertigo_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_vertigo_2021.611413bf4d18e0c888054707dff98c612049f097.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1I_826YbZoH-SBC2aU_vxztN5lRi67gVN15WzSmY36cn6RagEnD8MjTbIJ50W5m9OyN-rmtQGIgo9Fnimrhngd8G81tCm_mA6x"
@@ -8042,7 +8042,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Train Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_train_2021.a000b6d4ae1978aeced8ec31aa8ef5a0014dae29.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0POvV7d9IfOWHGaTxNF5ouBnSCyMmRQguynLzNirI32Ua1dzDpVzQLMKtUGww4LhMejh4FTY34wWyyv-3ylO7S5i4vFCD_Qear_SSQ"
@@ -8058,7 +8058,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Ancient Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ancient_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ancient.e90a2018381216be882d96c9e6c314d99f5097fa.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0POjV6ZhIfOYMXeRz_p-tfNWQyC0nQlp522Hm9ivdHjEOg4jC5t3TeAJ5xCwlYHlMuzmsQGIj99BzST9h39K6zErvbhYhH-Bzg"
@@ -8074,7 +8074,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cobblestone Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cobblestone_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cobblestone.7f470f4ad76920182d29cafc4a7fcbbb5de0e3ec.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0POjV6dlIfmdA2aZzdF6ueZhW2fqxU4k6znTn434JHnEPA9yWcR2TLIJ4UK4w9e2Nbjr4QbX2owXnyr7kGoXuSuECNR4"
@@ -8090,7 +8090,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Control Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ct_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ct.aaf2dd57a339a610de6f4514a76eb1e846647cc0.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0POjV6p4LfKWHHSv0-tyj-NlWiyMmRQguynLm4mscyqXOAJ1DpAjQuML5BDpxN22NuPgsVeN3YpCn3mr3ypB7S455_FCD_SVmRFKPQ"
@@ -8506,7 +8506,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Overpass Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_overpass.3b85a46ee2d4424367831a3f5994bf59f19f08bd.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0OGhV6N_IeOAAmaexdF6ueZhW2fkzEght2zVnIz_cXrCPQEmA5IhE7FZ4BG-x4GyY-rr5wWNj4kXyi_2kGoXucFfluJI"
@@ -8538,7 +8538,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Gods and Monsters Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_gods_and_monsters_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_gods_and_monsters.c66f30b18e90e05e6a727c5cda23912ffe49ffaf.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0OG-V6hsIumBB2mEybxJvOhuRz39lh4ksD7cz96gcX2UaAByA5olQeYLtxbsmtKyY-qxsw3Yg4MWnCz-jTQJsHiIL0xUTQ"
@@ -8794,7 +8794,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Gods and Monsters Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_gods_and_monsters_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_gods_and_monsters.c66f30b18e90e05e6a727c5cda23912ffe49ffaf.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wipC0OihbK1sI6OsAm6Xyfo4s7c4Gnvmx0l0tWjSzoyoeC7BPwUgDsAiQ-cMsROwloG2Y-rr4wfe3pUFk3scMmqwFg"
@@ -8842,7 +8842,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The St. Marc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_stmarc_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_stmarc.00c570e3e140452c95e68bfa4868c9ce1c5dc1c4.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFU0Pi7ZqNhJc-fB2CY1aB3tbI4S3ngl04ktj7XnNb7InvCOgAlC5Z4Q7ID4RHqlNDgZOPj4Qzdlcsbmsfre7St"
@@ -8858,7 +8858,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Chop Shop Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_chopshop_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_chopshop.b6ed206d7164f48594212559a70312123a12f9b5.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFU0PmrcadiLP-BHVicyOl-pK9rS3jlxBhztznQmNmrIn-VbFcmW5ZyReZe5hi9m4e1MO7j4w2Mg91A02yg2QZ4bFj3"
@@ -8906,7 +8906,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Mirage Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_mirage_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_mirage_2021.f1c9b5169b9fb9d6e0933baba0514dd34d6c9e19.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFL0P-heqtSI_GBGG6extF0pfNnWxa_nBovp3OGnomhc3-ROFInDJclReQOtkS_xNO0MLuwtVCL3Y9DxSqr3y9Lunxq_a9cBnmfuyfW"
@@ -8922,7 +8922,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Dust 2 Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_dust_2_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_dust_2_2021.318944ebb9e3dae51cd87d38b5d3584a2fa9425f.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFL0OKvZKlSLvmUBnOvzedxuPUnS3Cxlx8ksW7Um9mtc3KTOwAlCJF4FO4PskO9wd3jZLjn4wSN2I1HzDK-0H3u05_o_Q"
@@ -8938,7 +8938,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Overpass Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_overpass.3b85a46ee2d4424367831a3f5994bf59f19f08bd.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFL0OG-eqV0H_yaCW-Ej-shsbBtS3q2wkUitWzUz9b_c3vEZ1UhD5R4F-QL40a8m4HuZbnitlfAy9USVV6qaxA"
@@ -8954,7 +8954,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Havoc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_t_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_t.18b6dd49906d15a5f44f1477ca6139c7ab491197.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFL0OirarZsI_GeMWuZxuZi_rM9H3nkk01-6mSAzon_d3vBZw4lXsB0TOQD4RftwdXmY7-3tlffioNbjXKpMr9foB4"
@@ -8986,7 +8986,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Rising Sun Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kimono_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kimono.eec9d131eed8efec7910f137cf0cadb710e576c8.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiNW0PmnZatjL8-AG2mCyP1zj-1gSCGn2xgl5mjRzd2qeXmeO1coDZpxEeUJsxnrwYaxY7-w4wTb2NpGz3762yxXrnE8iKAzA8Q"
@@ -9018,7 +9018,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Control Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ct_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ct.aaf2dd57a339a610de6f4514a76eb1e846647cc0.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0PG9b6tSI_GeAVicyOl-pK89HijjkU534mTRw478IirEOgUhXpshQrMK4xW9x4biYrvnsgDd3ohA02yg2Z7zUK8D"
@@ -9242,7 +9242,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Gods and Monsters Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_gods_and_monsters_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_gods_and_monsters.c66f30b18e90e05e6a727c5cda23912ffe49ffaf.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0OKhe6FkJP-dMWuZxuZi_uM9Sn23xkx_sG3VyNyqcnnFZgchDMYjQuMJtRHuw9PvZuPjtlCI3d9bjXKpHL2aoaM"
@@ -9322,7 +9322,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Train Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_train_2021.a000b6d4ae1978aeced8ec31aa8ef5a0014dae29.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiVI0P_6afBSI_-SAm6EyOF4j-1gSCGn200jt2_XnIuseX_GaFR0XpEhReULtUKxlIWzP-_gs1HZjI1NzSutiClXrnE8e4r3Ge8"
@@ -9450,7 +9450,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Dust 2 Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_dust_2_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_dust_2_2021.318944ebb9e3dae51cd87d38b5d3584a2fa9425f.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwipC0PaqeKV5H-WBDGae_vxztN5lRi67gVNxsT_SmYv8InrDblQhDJN2R7ZZ4RW7m9azYb_n5gLZ391AnCj92y8c8G81tFE6rC2P"
@@ -9626,7 +9626,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Norse Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_norse_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_norse.d91172d71b95efb4e334d194cf6b0a5ab9621e8c.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_GeMWSC2P1ise1lRjO2kSIjsi-OpYjrJC7JAVp5Xco0W7NZsRCwmoCzNbni7lGNi4JMyij3ii9LvS5q4u4KUKIl-ayF2QnBOeYjoc5UYcWIs5E"
@@ -9658,7 +9658,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Control Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ct_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ct.aaf2dd57a339a610de6f4514a76eb1e846647cc0.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_GeMWrEwL9lj-NlWiygmBIstgKJk4jxNWWeOg5xDJR2Q-5b5BGwxIDuP7uw4ALa3ohMz3n3iypLvyc55-pQUKct5OSJ2OKlF5Nn"
@@ -9674,7 +9674,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cobblestone Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cobblestone_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cobblestone.7f470f4ad76920182d29cafc4a7fcbbb5de0e3ec.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_GeMWqV1e96o95lRi67gVNwsWTQzdn4JHyQZ1QhWMZyQe5YsxK-ktPnZOiwtVDcjo9ExS393ytB8G81tGXpYjdX"
@@ -9706,7 +9706,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Chop Shop Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_chopshop_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_chopshop.b6ed206d7164f48594212559a70312123a12f9b5.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_GdMXWVxdF75OA4XBa_nBovp3PXyt2uJ32QaQciDZUhReUM5hLskdy2Pu_n4wLe2doXm3j-2i5A7X5i_a9cBuWkb97d"
@@ -9754,7 +9754,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Overpass Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_overpass.3b85a46ee2d4424367831a3f5994bf59f19f08bd.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_OGMWrEwL87o956RiW2mx4ijDGMnYftby3FbFdyXpZxQ-AP5hi7wILkZOzg5ASNgt4WmCv833hKuntvsLxWAKE7uvqATAFok6E"
@@ -9802,7 +9802,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Ancient Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ancient_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ancient.e90a2018381216be882d96c9e6c314d99f5097fa.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_OGMWrEwL9Jo-9oRCyMmRQguynLzYqgInjGZlcnX5ciE-IPthLrkN3hYu_ltQPW3Y1NzSn-jCpJ6ydpsvFCD_TdxQe8NQ"
@@ -9994,7 +9994,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Vertigo Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_vertigo_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_vertigo_2021.611413bf4d18e0c888054707dff98c612049f097.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_eAMWrEwL9JpuR7WyC0miIrujqNjsGpciiVZgIpCpAjEOUPuhXuw93kZOzm4laPi4IRyij-2H9P6yc65rwCT-N7rc1sfRJu"
@@ -10122,7 +10122,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Gods and Monsters Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_gods_and_monsters_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_gods_and_monsters.c66f30b18e90e05e6a727c5cda23912ffe49ffaf.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_iKMW6TwPxjo95lRi67gVN_smmHyor9eHyUZwImDpJzEeZf4xS6kN2zY77i7wPdjtgXn3msin4b8G81tDwr8lc2"
@@ -10282,7 +10282,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Train Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_train_2021.a000b6d4ae1978aeced8ec31aa8ef5a0014dae29.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H-ODMXOVwuZ4v_ZoXRahkBkYvzSCkpu3JyqVagUhX5Z2QOYMs0a4lYHmMOjn7gCN2YwQyX6r3HhO5i464b1RA71lpPPi0vWs1A"
@@ -10330,7 +10330,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The St. Marc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_stmarc_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_stmarc.00c570e3e140452c95e68bfa4868c9ce1c5dc1c4.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFL0PC7bJtvLOWWMWuZxuZi_rZsSi3rzRlwtmjVy4yheHzGa1V0DcF5RO4JsxO-x9C1ZenqtFbW2d1bjXKpi8Drf9k"
@@ -10410,7 +10410,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Chop Shop Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_chopshop_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_chopshop.b6ed206d7164f48594212559a70312123a12f9b5.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a7s2oaaBoH_yaCW-Ej-h347AwHyzqx04l4WvSyI77cCjCbQEhW8MjE-NcthG8loXlMujh7g3Ay9USCa6Cs30"
@@ -10458,7 +10458,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Ancient Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ancient_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ancient.e90a2018381216be882d96c9e6c314d99f5097fa.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s2pZ6hpH_KBB2Sb_uJ_t-l9AX2wwhl35jzRw4yodymWO1R0X5V0FrRc4Bi-m4DuY-2xsgzY39oRmSTgznQe6Q1Q_KE"
@@ -10474,7 +10474,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Norse Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_norse_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_norse.d91172d71b95efb4e334d194cf6b0a5ab9621e8c.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s2lZqt5M8-RHGiHz9F6ueZhW2eywBwhsWmAz9-peSjFalQmCJFyTeEC4UO5kNTjNOy0sgXa3oxNzC36kGoXufH8E8DI"
@@ -10554,7 +10554,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cache Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cache_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cache.1bdc24f9fbd7532a2eb3e26d6ac33e52fc4a0efc.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s2gfadhJfGBMXSb1OJ6o7JWQiiwxE0YvzSCkpu3Ii_COw4jDsMkEbYJsxe5xNezPu-3swCN3dhEz3_33XlA63lo6-8DWL1lpPMiXZ_jZw"
@@ -10570,7 +10570,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Canals Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_canals_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_canals.56ae4549ece13ec63d017e7fa24dc0283572670f.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s28bapSMvWXMWuZxuZi_rk6F3DixUt_5W3Vn96odS-fO1N0D8MkQu4NukG4kdbiN7yw5gyLjdpbjXKp1e3DB44"
@@ -10634,7 +10634,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Dust 2 Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_dust_2_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_dust_2_2021.318944ebb9e3dae51cd87d38b5d3584a2fa9425f.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2hYahoJM-fB2CY1aAituJtTnvjkUx3tziGmd6hJy-VZlAoWZtwFLRZ5EbpwNLvYb-zsgOKlcsbmn9_3b1O"
@@ -10810,7 +10810,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Train Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_train_2021.a000b6d4ae1978aeced8ec31aa8ef5a0014dae29.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-DHGiAwOl3vuVocCW6khUz_T_WzN6hcHOQaQIgCZIlFrEPtUS7wdW0Ne6wtFTYj9pAzyr-3SxP6n11o7FVcf1yckU"
@@ -10970,7 +10970,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Havoc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_t_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_t.18b6dd49906d15a5f44f1477ca6139c7ab491197.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1c_M2jaac8cM-AAGabxNF6ueZhW2fhlEwk4DmDzYr9dnvGbgFzDJojFrYMsBS7m9PhMLjh5APZ2IlCnC2qkGoXufthzYDr"
@@ -11018,7 +11018,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Vertigo Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_vertigo_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_vertigo_2021.611413bf4d18e0c888054707dff98c612049f097.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1T9s24bbZ5KfecHXeCwPdJsu18Sha_nBovp3PTmIuoJ3yVa1clXMB4TbEOsBHtwdHiZO-x7gWN2d8XyS_4i3xM53k4_a9cBrlyT3NZ"
@@ -11146,7 +11146,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cobblestone Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cobblestone_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cobblestone.7f470f4ad76920182d29cafc4a7fcbbb5de0e3ec.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1I4M2nZqBkJ_-sD2mU_ulktfhWQyC0nQlptT_VztavJXyfa1QgW5J0FuMCtBLtw4ayMe_g5VPZg49MzCX423sf6TErvbjb2X3Wdg"
@@ -11226,7 +11226,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Mirage Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_mirage_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_mirage_2021.f1c9b5169b9fb9d6e0933baba0514dd34d6c9e19.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1I_82jYbZsJ_WsCGuf1utko959TieMmRQguynLzNv4J32XaVdzX8dyTOcJsxS_x4CxYeKz5QCKjo0RzCv7iC9I5nlv4_FCD_Ti47lJig"
@@ -11258,7 +11258,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The St. Marc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_stmarc_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_stmarc.00c570e3e140452c95e68bfa4868c9ce1c5dc1c4.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1I_826f61qM8-RC2aTydF6ueZhW2eww0omsGuGmd2oIH_BPVNxCcMjE7EC4Bnul9KzMenj4wPajY1FmXj-kGoXuac9-lER"
@@ -11274,7 +11274,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Control Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ct_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ct.aaf2dd57a339a610de6f4514a76eb1e846647cc0.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiNW0PGveqZiLs-VB2WV09F6ueZhW2fqlhgm5mzSnNqgdiqSO1AnW5YlR-8Ct0Hqkte0Y7-xsg3d3o9BnCX6kGoXuYaRGffM"
@@ -11290,7 +11290,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Norse Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_norse_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_norse.d91172d71b95efb4e334d194cf6b0a5ab9621e8c.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiNW0PGmaa1jLfGaAlicyOl-pK9tHXnrxUV14Gjcy4yoInmQPQEnD8FwQORb5ELqxtXhNOrm5A3Zjo4R02yg2X61hecA"
@@ -11338,7 +11338,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Mirage Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_mirage_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_mirage_2021.f1c9b5169b9fb9d6e0933baba0514dd34d6c9e19.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiNW0Pyvfr1SM_iaAGKvzedxuPUnHyu2lh8j5zuBzYv4Iy3FZwJzCJMlQbEL5hO-ltPnP7zmswHY39hAxTK-0H11955Myw"
@@ -11370,7 +11370,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cobblestone Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cobblestone_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cobblestone.7f470f4ad76920182d29cafc4a7fcbbb5de0e3ec.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiNV0OGnZLJoMs-fB2CY1aAm5Lc7SSyxl0t1sj7Wn9ipdXuRZwMkD5NzRbVftkPsx9LvZOjjsgyMlcsbmlF3IVC_"
@@ -11546,7 +11546,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Canals Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_canals_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_canals.56ae4549ece13ec63d017e7fa24dc0283572670f.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiVI0P-vb_NSJ_ySHXSvzedxuPUnSijmlh9x4D-BnNyuJ3LCbAVzAsdxFuRe5EPpw9XiMbvh5lHYiYwQyjK-0H3Th2Gpiw"
@@ -11626,7 +11626,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Rising Sun Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kimono_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kimono.eec9d131eed8efec7910f137cf0cadb710e576c8.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wipC0PWrZ6loNOKaDViD1etmo95uXSy2myIrujqNjsH6InKeOAIgX5smTbMLtka-loflYe7n5wDZjt5AySX7hyhNuns547wBT-N7rTTigBkB"
@@ -11642,7 +11642,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Vertigo Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_vertigo_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_vertigo_2021.611413bf4d18e0c888054707dff98c612049f097.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wipC0PWrZ6loNOKaDViD1etmo955SiihmSIrujqNjsGrcX3GbAB2AsdyQLMOsESxktPgMOKw7wOMgt4WmSv5jS1M63lpsedRT-N7rVBJ5qCN"
@@ -11722,7 +11722,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Chop Shop Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_chopshop_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_chopshop.b6ed206d7164f48594212559a70312123a12f9b5.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wjFU0PO_faVSLPmUBnPel-oj5LhsTnniwRx15TmDn9esdXLGPFIlW5QiRuRftEG8xNTgMuLrtRue1dzd1mVtfQ"
@@ -11770,7 +11770,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Overpass Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_overpass.3b85a46ee2d4424367831a3f5994bf59f19f08bd.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wjFU0OG6Z7ZgJuKcAHOvzedxuPUnS3_iwk926m6EnIyvIn3DbQF0X5UjRbJfthewktK2MLzq4ATcgoJCxTK-0H2wBd1PlQ"
@@ -11994,7 +11994,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Mirage Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_mirage_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_mirage_2021.f1c9b5169b9fb9d6e0933baba0514dd34d6c9e19.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1c_M2jePFSLvWcAFiWzet9pOB7QRa_nBovp3OAmYr_cnLFOlN0A5d4Qu4KtRi6lYG2Mr7n4QCLg48Tm3_-3yxOvSdj_a9cBsgSaNGx"
@@ -12058,7 +12058,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The St. Marc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_stmarc_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_stmarc.00c570e3e140452c95e68bfa4868c9ce1c5dc1c4.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1T9s2saalvL_-sHXOdwPx1j-1gSCGn200k5mzWyd-tcX2RbwYjW5dyQ7YIsxi_kdfvY7mztQSP2o5Mnn_4hntXrnE8gm_uARc"
@@ -12090,7 +12090,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Train Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_train_2021.a000b6d4ae1978aeced8ec31aa8ef5a0014dae29.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1T9s26eqVkLvGBDW-Z1et1pN5lRi67gVMj5DiAw9avcn-XOlQoDMEjFrYOsETpkIfuYb-x7gaNj9pMzX74inwb8G81tAuAxr4i"
@@ -12154,7 +12154,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Control Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ct_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ct.aaf2dd57a339a610de6f4514a76eb1e846647cc0.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I4M2heqVjJ_WsD2STxOBio7JWQyC0nQlp42yEzImsdH3EaAEgC8N2EeYJtRbuxtDjYr_q7weI3d5FzCz43ChOvDErvbiO5Zd60w"
@@ -12250,7 +12250,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Havoc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_t_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_t.18b6dd49906d15a5f44f1477ca6139c7ab491197.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_C9k5_ene7BSMPySAHSv2Ot6vO5-cCW6khUz_Wrcydz9di2WPAApA5EmF-MCtRDpktznNri35FeLithAzSuqiHxM7iZ1o7FVdAUc4V4"
@@ -12522,7 +12522,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Ancient Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ancient_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ancient.e90a2018381216be882d96c9e6c314d99f5097fa.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf9Ttk6-C3f6tiJM-UHGKVz9F6ueZhW2frxxlx4jnQw4yuJ3yfPQ4hDpd5QOVZsUa5l9XiNb6w5laPjosWyC6qkGoXuWq2Rgm4"
@@ -12538,7 +12538,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Overpass Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_overpass.3b85a46ee2d4424367831a3f5994bf59f19f08bd.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf9Ttk6PeieKFjH_yaCW-Ej7d0sbI8Gyrklht04GvXy46vJ3uQbQ4nWcN5EeAI5hPtmtzjP7nktlHAy9USqCgnGlg"
@@ -12586,7 +12586,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Chop Shop Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_chopshop_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_chopshop.b6ed206d7164f48594212559a70312123a12f9b5.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf9Ttk-fO8YadsLf-sHGKU_uJ_t-l9AS3nlhhx5W7Xyo6vJHPDagQpC5d4TO4IsRWwmtSxYuzi5FfciY9CxH_gznQebimdppU"
@@ -12682,7 +12682,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The St. Marc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_stmarc_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_stmarc.00c570e3e140452c95e68bfa4868c9ce1c5dc1c4.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7jJk7eeqV6N_JfWdMWuZxuZi_uAwTnC1zE1zsWTSy936di-fb1AnCMYlTeINsBbrm9S1Mr7r5gKLi9lbjXKpdi5Lf9g"
@@ -12698,7 +12698,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Norse Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_norse_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_norse.d91172d71b95efb4e334d194cf6b0a5ab9621e8c.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7jJk6_O-eKhoH_yaCW-Ej7kvs7c_GXrhwk4lsWzUztn7ciiUPFQgW5clE-UC5Bbtx9TmY-m041DAy9USq3Wit9I"
@@ -12714,7 +12714,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Gods and Monsters Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_gods_and_monsters_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_gods_and_monsters.c66f30b18e90e05e6a727c5cda23912ffe49ffaf.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7jJk4_OscbZkLuSbMWuZxuZi_rA_FnC3wERw5zuDyYusInKSOFQhCpZ2FO9Y40a_loC2NL6z5gHWjY9bjXKpANIUSxE"
@@ -12794,7 +12794,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Dust 2 Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_dust_2_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_dust_2_2021.318944ebb9e3dae51cd87d38b5d3584a2fa9425f.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7jJk9feseqVuIf2sHGKU_uJ_t-l9AXvqwUsk4DyHnIr7eHySbg8gWcckTOUCsxawk9O1ZeywsQOIg95AznjgznQehcsrUP8"
@@ -12842,7 +12842,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Gods and Monsters Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_gods_and_monsters_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_gods_and_monsters.c66f30b18e90e05e6a727c5cda23912ffe49ffaf.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_CNk__OgbKt_Ic-fB2CY1aAv5LE9Hyu1wUtx5WTUyYmrcHiUbgIlCcF5Q7RZtUKwlNDiZL7q4QTblcsbmlthBLtr"
@@ -12874,7 +12874,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Control Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ct_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ct.aaf2dd57a339a610de6f4514a76eb1e846647cc0.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_C9k7uCjcZt-KPmdC1icyOl-pK9rTCvlwEwhsWzcyYmtJ3iVOFQiW5BxTeNbshjqmoXlN7ni7gfa3Y8T02yg2VdURND-"
@@ -12890,7 +12890,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cobblestone Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cobblestone_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cobblestone.7f470f4ad76920182d29cafc4a7fcbbb5de0e3ec.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_C9k4ve6aahSKf6fD36vzedxuPUnG3uwxxkk6jnWmdqsJy-UbFV0DZV4FLRctUXqwIWyNb_r5Qbdg4lGzzK-0H2q-xqNvQ"
@@ -12906,7 +12906,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Mirage Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_mirage_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_mirage_2021.f1c9b5169b9fb9d6e0933baba0514dd34d6c9e19.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_C9k4vu8aaNoH_afAXCV0_1JveR9TiW6liIrujqNjsGtcCmeOw8gAptyFLVb4BaxmtGyML_n5QXW2owUm3j5hi4dvHlr57sET-N7rSSys4ef"
@@ -12954,7 +12954,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Canals Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_canals_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_canals.56ae4549ece13ec63d017e7fa24dc0283572670f.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_C9k_OavYapoJM-UAmaD0tF6ueZhW2ewkUxysDjUz42hdS6XagQjXMZxELQC5BS4koGxYevm4QKLgt8Wzy36kGoXuTMoqxid"
@@ -13098,7 +13098,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The St. Marc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_stmarc_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_stmarc.00c570e3e140452c95e68bfa4868c9ce1c5dc1c4.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_jdk4uL3V61-LPGdCliWzeFkse1WQyC0nQlp4WuHz4mpcCrDZ1QhCcR5FrUJtkK9lNPuYezh4gDf2ItNxCr8iypJujErvbjAJv0dlg"
@@ -13258,7 +13258,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cache Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cache_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cache.1bdc24f9fbd7532a2eb3e26d6ac33e52fc4a0efc.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f9Ttk4eetZKFsMs-DD3OExPx44t5kX3CMmRQguynLyIqvdXiVbFN2CZMhQLRZ4RbumtXhPrji4gzfio5MyCr4in4a7nk_4PFCD_TmMRwm0Q"
@@ -13370,7 +13370,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Overpass Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_overpass.3b85a46ee2d4424367831a3f5994bf59f19f08bd.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f7i1k_OaheqlrMv-dGlicyOl-pK8_S3zjxRh_5mmGn9epIymQPQBxDpQlFuUJ5xa6kt2yZLjkswLY2ooT02yg2WH9Y1dp"
@@ -13418,7 +13418,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Dust 2 Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_dust_2_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_dust_2_2021.318944ebb9e3dae51cd87d38b5d3584a2fa9425f.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f7jJk4v28Z5tuIeKFB2mX_vdzvO1mWBa_nBovp3PUmI6vdi-VOgInDpFxQOIKuhW8lNC1Puqw41fajIJCnCv9j3tIuixt_a9cBudlkiY3"
@@ -13674,7 +13674,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Norse Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_norse_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_norse.d91172d71b95efb4e334d194cf6b0a5ab9621e8c.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1c_M2gbaNoNs-HBmiC_uJ_t-l9AXDhxRsi62yEmYqrdSmSbQMhWcN3EO8KshHpw4LmP-Oz51bcjNgXn3ngznQe6IKqifc"
@@ -13722,7 +13722,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Havoc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_t_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_t.18b6dd49906d15a5f44f1477ca6139c7ab491197.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1T9s2-YKtoLvmLMXORxv1JouRtcCW6khUz_WzTy96heC-VbwMkDJB0FLMPtBi7x9XlN76x5VfYg98UySv3h35A7yd1o7FV05NZ2dU"
@@ -13754,7 +13754,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Canals Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_canals_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_canals.56ae4549ece13ec63d017e7fa24dc0283572670f.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1T9s24bapoNP-sGmae_uJ_t-l9AX3glxh142zUzIz_dXiWPVMjX8EhF-MP40K8l9TiMr_j7lPXiYxGzyzgznQeGMlgK6w"
@@ -13770,7 +13770,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Vertigo Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_vertigo_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_vertigo_2021.611413bf4d18e0c888054707dff98c612049f097.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1T9s24bbZ5KfecHXeCwPdJvOhuRz39zU9w4m3RmdmqdSiSa1BxDJMiQ-4NsELqwYHgMujm5lHbg9gRxHqo2DQJsHghIlc9AQ"
@@ -13850,7 +13850,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cache Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cache_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cache.1bdc24f9fbd7532a2eb3e26d6ac33e52fc4a0efc.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1I_82gfadhJfGBMXeR1fpzou86cCe2khgxjDGMnYftby3EOFB0D5JxRLZZ5BXrm9PmPrjm7weKiY0Xz32ri3hKv3pu4-wBU6Y7uvqADsXx-os"
@@ -13882,7 +13882,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Ancient Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ancient_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ancient.e90a2018381216be882d96c9e6c314d99f5097fa.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwiNW0PO8Zb1SM_iaAGKvzedxuPUnGXu1xEkktz-Dyd-oJH6ebwIpD5F5ReEJt0W-x4WxZOi0swCM34lNxDK-0H27DLwAVA"
@@ -13914,7 +13914,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Train Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_train_2021.a000b6d4ae1978aeced8ec31aa8ef5a0014dae29.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwiNW0PG8cbd5IfyfB32VxdF6ueZhW2ewxEVy4j6GzI6rIHLFZlMlCZZ3RLZe50O4kNPmYuvgtVfd3o5CxSn6kGoXuWu5UcUF"
@@ -13962,7 +13962,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Canals Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_canals_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_canals.56ae4549ece13ec63d017e7fa24dc0283572670f.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwiNW0OSrZqF5L6KsAm6Xyfo4tbI6F3zhkB9ztj7XmYmocXjGagJ1XMEiE-FctBe8k9K1N7zmtgyNiJUFk3sHO4PBUg"
@@ -13994,7 +13994,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Havoc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_t_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_t.18b6dd49906d15a5f44f1477ca6139c7ab491197.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwiNK0OG6baFhH_yaCW-Ej7si4-I-Fy3rwE0h4mvVmd38IH7FaQIkWMB5ROEOtxTsxNXmNLzrtVDAy9USeAhvX4k"
@@ -14314,7 +14314,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Dust 2 Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_dust_2_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_dust_2_2021.318944ebb9e3dae51cd87d38b5d3584a2fa9425f.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwipC0OaheqpSI_GeAViAwOd4pPJWQyC0nQlp5GSGwt-tJXvEblMlCpQmFuVc4ELqm9TiMuPr4Fbaj90Tnimohn5J7DErvbgkcpg0tA"
@@ -14330,7 +14330,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Vertigo Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_vertigo_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_vertigo_2021.611413bf4d18e0c888054707dff98c612049f097.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwipC0OSrerBkJ_-aAmuF0ud5vt5wSiW_mgoYvzSCkpu3dXOTPw5xDcQkROde4Ra6x4biZOi3tQLfiIJMyCz72ihA63tt5esFWb1lpPMXduS-Jw"
@@ -14346,7 +14346,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Gods and Monsters Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_gods_and_monsters_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_gods_and_monsters.c66f30b18e90e05e6a727c5cda23912ffe49ffaf.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwipC0OihbK1sI6GsAm6Xyfo4tLhoHy_rx0ol6z-Hw4v8Ii2VOgIgCcd0E-QCu0W9lNPiYu_rtVSPjpUFk3ueOYGM7w"
@@ -14410,7 +14410,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cobblestone Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cobblestone_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cobblestone.7f470f4ad76920182d29cafc4a7fcbbb5de0e3ec.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwjFU0PW8baFjH_yaCW-Ej7xz5eNtTXHrw0l-4G3SnN78Jy-faQVxCZV3R7FesEHsm9S1Ybm07gXAy9USzA6LpwE"
@@ -14602,7 +14602,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Vertigo Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_vertigo_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_vertigo_2021.611413bf4d18e0c888054707dff98c612049f097.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiNa0OSrerBkJ_-UC2ivz-t5vt5lRi67gVMk4mXQntr7JC_GPQNxApFxF7NethXqktfvMuLktAaKjd9Cyy_9iH8f8G81tGeD0jsi"
@@ -14666,7 +14666,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Canals Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_canals_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_canals.56ae4549ece13ec63d017e7fa24dc0283572670f.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiNW0OCrZptpIeKYMWuZxuZi_uBrSS3iwBty4zvSntv7Jy_DZg90Xsd2Qudb5xG_kIfuZurm7wHbjtlbjXKpFkxeYNg"
@@ -15066,7 +15066,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Dust 2 Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_dust_2_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_dust_2_2021.318944ebb9e3dae51cd87d38b5d3584a2fa9425f.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwipC0Pare6F_NM-eG2uEyO13vd5lRi67gVMm5GrTyN-ueH6fO1MlDMd2RLQC50Trw4fvMuPns1eLj9hHzCn4j3lK8G81tJittFNq"
@@ -15114,7 +15114,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Control Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ct_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ct.aaf2dd57a339a610de6f4514a76eb1e846647cc0.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwipC0PSheqF-NM-dB2CY1dF6ueZhW2fqkUpy5zzVyo76eC7DO1AnXJtzQuQMtkG_mtS1Y7zl41ffg91HyHmtkGoXueNjwZxk"
@@ -15162,7 +15162,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Rising Sun Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kimono_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kimono.eec9d131eed8efec7910f137cf0cadb710e576c8.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwipC0PmnZatjL8-XB2adzuByo957Si2MmRQguynLw9uvI3qVbld2XJF3ROMKtBTqxNO0P-Pj4lbXjt9HySv5hikf6y9s4PFCD_Tv7NBHeA"
@@ -15178,7 +15178,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cache Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cache_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cache.1bdc24f9fbd7532a2eb3e26d6ac33e52fc4a0efc.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwipC0Py7a6hoIeKsHWyFzeJl5N55HXzjqhEutDWR1NahIH6SaVUnDsB2Q-MIthHrxtTjMuLk7gXc2YlHyir93CtMuCdt4e8cEf1ykWaXO4g"
@@ -15210,7 +15210,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Havoc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_t_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_t.18b6dd49906d15a5f44f1477ca6139c7ab491197.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwipC0OL8PfRSNPmUC3WvzedxuPUnSX7llhghsGjQnNv7I36SZlAjDZMmE-VYskS_kYfkNO2w4QffiItNyjK-0H3QIgynUA"
@@ -15322,7 +15322,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Chop Shop Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_chopshop_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_chopshop.b6ed206d7164f48594212559a70312123a12f9b5.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjFU0OWmYbBoL-WHMWuZxuZi_rJqTCq1wUUh6mSBntaqdHyTPFdzXJQjTeMLskTrk9zlN-7lsgyM34lbjXKp2HY6z6k"
@@ -15370,7 +15370,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Mirage Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_mirage_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_mirage_2021.f1c9b5169b9fb9d6e0933baba0514dd34d6c9e19.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjFL0Pare6F_NM-ABXKczf1JtOB-QRa_nBovp3PVyd6tIijBOAQhXsAlE-ECsxC9x9flMuPn5wfZ2YNNnn32iy4d53pi_a9cBo6jFyfx"
@@ -15386,7 +15386,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Rising Sun Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kimono_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kimono.eec9d131eed8efec7910f137cf0cadb710e576c8.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjFL0PmnZatjL8-XB2adzuByo95lRi67gVNx4z_cn934JHvDOAEnCcZxTeZbsUTrxoGyMrzi4FHZiI0Uzyn-3HtM8G81tISNzIT_"
@@ -15466,7 +15466,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Ancient Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ancient_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ancient.e90a2018381216be882d96c9e6c314d99f5097fa.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf_CNk7vytYaFjNM-RHGiHz9F6ueZhW2e1lBl3sDyHw9uudXiWO1J1A5RzTOcI5hLqxIbnNLnhsgWN2d1GzHn9kGoXua3B7-6C"
@@ -15482,7 +15482,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Norse Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_norse_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_norse.d91172d71b95efb4e334d194cf6b0a5ab9621e8c.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf_C9k5f28ZZtvLOWWMWuZxuZi_rJtFiziwkom4GXTyNqrIC-TPVMgApAkE-EMtUS-xoCzNry35Fff3t5bjXKprRMe7_8"
@@ -15514,7 +15514,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Havoc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_t_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_t.18b6dd49906d15a5f44f1477ca6139c7ab491197.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf_C9k-_upbbZ-H_KBAXCe_uJ_t-l9AX6wxERy4W_UyYytIn2RPQYjDpp2F-Vc4xi8x9e1Pu7n5gfcjYoWzCrgznQeZAcpQ5E"
@@ -15530,7 +15530,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Canals Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_canals_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_canals.56ae4549ece13ec63d017e7fa24dc0283572670f.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf_C9k-fegbbBiH-KWClicyOl-pK8_Gi3qlEp2sjvSzomhIi_CalByW5shQuNcuhm8m9GzMePg5gLW2IxC02yg2WEL1Rk5"
@@ -15610,7 +15610,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Ancient Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ancient_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ancient.e90a2018381216be882d96c9e6c314d99f5097fa.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf_jdk5fOpfaV_H-DKXlicyOl-pK85H36xlEsmtT_SmN2geSqVOAMkCJpwQOQP5BOxlNHiYruwtgXajI0X02yg2YhNEJOA"
@@ -15914,7 +15914,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Dust 2 Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_dust_2_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_dust_2_2021.318944ebb9e3dae51cd87d38b5d3584a2fa9425f.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf9Ttk6_a-abBSJPWAC3WE_uJ_t-l9ASjgwBx3sj_Ry4qqcXKfPVdxD5J4F7MIsBnpl9OzP7jg7gLd2dpFyiXgznQeFOalmMw"
@@ -15994,7 +15994,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Vertigo Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_vertigo_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_vertigo_2021.611413bf4d18e0c888054707dff98c612049f097.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf9Ttk-fe8fK1qL_eWAVicyOl-pK89HXrjwhh_sGWDz4yrcn-eZlR1XMAkFOYIshTqlIXlMbnk7lHWiIlE02yg2XF_CACM"
@@ -16106,7 +16106,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cobblestone Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cobblestone_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cobblestone.7f470f4ad76920182d29cafc4a7fcbbb5de0e3ec.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf7i1k_OaheqlrMv-dGlicyOl-pK8-HSixlhh2sG_TydaveS7EZw91A5ByEeIJ4Rm6kNfgMbzr7wGMgolA02yg2VYIqRCy"
@@ -16122,7 +16122,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The St. Marc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_stmarc_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_stmarc.00c570e3e140452c95e68bfa4868c9ce1c5dc1c4.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf7jJk7f6hZ6lSL-KSAGCV_uJ_t-l9AX3klxl_5mzQmN34dXLDaAd0XJYmROIJsUHswdzuYe7ktgzfit1DmS_gznQesD3mhjI"
@@ -16186,7 +16186,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Mirage Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_mirage_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_mirage_2021.f1c9b5169b9fb9d6e0933baba0514dd34d6c9e19.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf7jJk4v28Z5t5JeiHB2uV_ulkteRncD-6mxgYvzSCkpu3eXqUaFMkDZciEeZesxG4w4fgZe3g51HfiY4RmS33jCNMvXpst-gFAr1lpPPtRxOxww"
@@ -16298,7 +16298,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Train Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_train_2021.a000b6d4ae1978aeced8ec31aa8ef5a0014dae29.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2vaZtrLPGeC3SvzedxuPUnTCznkR9xsGiHzomgIn-UPwN1DZZyELNe5xDrlNTgY-jm5FeM3tkUnDK-0H3jUXrCJQ"
@@ -16314,7 +16314,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Havoc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_t_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_t.18b6dd49906d15a5f44f1477ca6139c7ab491197.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2vZZt9KP-WAG6I_vp3t_JWTSWmkCIrujqNjsH9dSnGZgQiC5Z5EOQP5ETsmtLjNuzi5lPe3tpEmyj9ji0a6Cxp4blRT-N7rZuorHqs"
@@ -16522,7 +16522,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Dust 2 Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_dust_2_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_dust_2_2021.318944ebb9e3dae51cd87d38b5d3584a2fa9425f.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2mcZtvMuWABliTwON5j_VoQRa_nBovp3PUz9iodirCaQQkA5R2RbFe5kO5lt3lZuLn41DfiI9FxSn4j38f73xs_a9cBhkVhlil"
@@ -16570,7 +16570,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Ancient Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ancient_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ancient.e90a2018381216be882d96c9e6c314d99f5097fa.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c29Z5tjKfebGlicyOl-pK9oGCjkk0sktWyAntv6cSrDaAdzAsFxQuFZtRnqwNPlP7jg5QHd39oU02yg2UcfjkJE"
@@ -16618,7 +16618,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Canals Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_canals_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_canals.56ae4549ece13ec63d017e7fa24dc0283572670f.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c29eJt-MOKSF1iHwPpzot5lRi67gVN04jnTyd2hIHqUOwUiX8BzEbYM4xDum4K2ZrvltQWPgthFm3j63yhB8G81tDz6WJ29"
@@ -16746,7 +16746,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cobblestone Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cobblestone_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cobblestone.7f470f4ad76920182d29cafc4a7fcbbb5de0e3ec.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c2veZt-NPWWAlicyOl-pK87TC2ylB534jiGzNv6dCjFPQR2XpJ4RuQPtRbqx9znYujitFPZ3oJC02yg2T-LVFiK"
@@ -17002,7 +17002,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Rising Sun Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kimono_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kimono.eec9d131eed8efec7910f137cf0cadb710e576c8.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c2mcZtvIf2RAWivy_t4t-1scCu_lB4sjDGMnYftb3mTOAMlCcRwQONcs0buxoKxNOy2tgyKjtgXmHj62ypPuHs56-hUBas7uvqAJwYOBrA"
@@ -17050,7 +17050,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Dust 2 Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_dust_2_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_dust_2_2021.318944ebb9e3dae51cd87d38b5d3584a2fa9425f.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c2mcZtpJeOWHHOvw-J5v-xWQyC0nQlp52_dnoqsdHjDaAInDMNzQbZc4ROxxIbgMrmxtALagtgXniiv3HxOuDErvbjDfqqgDA"
@@ -17066,7 +17066,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Havoc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_t_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_t.18b6dd49906d15a5f44f1477ca6139c7ab491197.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c2mcZt5KfeWHHSv1e94j-1gSCGn2093tmzRy92gI3-Qb1QjWcN2EOBb5xjqm4XgY-rq4w2LjI1DmC38hn9XrnE8CIO4W8k"
@@ -17130,7 +17130,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The St. Marc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_stmarc_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_stmarc.00c570e3e140452c95e68bfa4868c9ce1c5dc1c4.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c29eJt9IfyeMWCCxOt4j-1gSCGn2xhztj6Bn97_dnzBaQAoA5ciE-8PukG6k9fhZOi34gOPit9BxSz7hytXrnE8FOcrcRs"
@@ -17162,7 +17162,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Overpass Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_overpass.3b85a46ee2d4424367831a3f5994bf59f19f08bd.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c29eJt-MOKSF1iUxP1zovVWXCi0kCIrujqNjsH9eC_GblMpCMB4RLYJuhi8wdLiN7_qslaNjdkWyCmqjn9O5yk5sbwBT-N7rdc-87w7"
@@ -17178,7 +17178,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Chop Shop Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_chopshop_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_chopshop.b6ed206d7164f48594212559a70312123a12f9b5.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk7v-RabZgOc-ABm6exNF6ueZhW2fhzU9-sGrRn9j_d3_DPwVzWMAiQrUI4RGwltGxNOmwtA3Z3Y1Dyyn3kGoXuRBHX853"
@@ -17226,7 +17226,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Norse Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_norse_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_norse.d91172d71b95efb4e334d194cf6b0a5ab9621e8c.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk7uORarZsM-OsAm6Xyfo457MwH3zlzEwh6mXWw9qpdniQO1MmCJZ5QeBe5xa5wdfvZO234lOI3pUFk3uBClMh1w"
@@ -17418,7 +17418,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Control Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ct_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ct.aaf2dd57a339a610de6f4514a76eb1e846647cc0.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk5-uRabF5KP-BB3OJ_v5jovFlSha_nBovp3PVzdr8cHnBbAcnXsAmR-UOsRHsktTmYb_ns1CNg4JCzSX_iiNKvS0__a9cBnHoQ9ul"
@@ -17434,7 +17434,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Canals Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_canals_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_canals.56ae4549ece13ec63d017e7fa24dc0283572670f.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk5-uRa6VjIfyAMXOZzetJvOhuRz39wk4m5TvWn474dyqWagcjCpZ2TeAPtxO8kYLnZezg5QbaitpGyyWrjTQJsHihs7k2tg"
@@ -17578,7 +17578,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cobblestone Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cobblestone_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cobblestone.7f470f4ad76920182d29cafc4a7fcbbb5de0e3ec.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_P2Re7BiMv2VHGie1dF6ueZhW2fjxBgl5jyAntytc3ifO1AjXpslRLFft0PtxoXkMuKwslaPg49MmHj6kGoXuUn7n6Ef"
@@ -17658,7 +17658,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Mirage Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_mirage_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_mirage_2021.f1c9b5169b9fb9d6e0933baba0514dd34d6c9e19.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1a7s2qbbdoMuSsDGufzuNJsvNgSCGnqhEutDWR1N_8JXPBagZ0WZUiRu4PukaxxNDjNb_mtQCPiYwRyymt2yhIuyc46-kcEf1yx7sEwjI"
@@ -17674,7 +17674,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Ancient Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ancient_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ancient.e90a2018381216be882d96c9e6c314d99f5097fa.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1a7s28fa1jM8-UHGKVz9F6ueZhW2fmkU4jtTzSw42pc3LEOgJ2ApZ4FORZ50XtxoXiPr-z5FDcit9ExXqvkGoXubXo--Tz"
@@ -17690,7 +17690,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Havoc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_t_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_t.18b6dd49906d15a5f44f1477ca6139c7ab491197.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1a7s24bbZ5KfecMWuZxuZi_rJrF3DlkEUl5GTdy4yudHyRZgYnWZskFucO4RO_kIK0PuOxtVPb2d5bjXKpAmuHKUk"
@@ -17802,7 +17802,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Vertigo Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_vertigo_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_vertigo_2021.611413bf4d18e0c888054707dff98c612049f097.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-QD3KEyOF4j-1gSCGn20Qj52vXw9z6c32RbAV2XpF1Q-UN4Ra7x4bkPuy0tFTciYpCxC37jC1XrnE8Zorh1bo"
@@ -18074,7 +18074,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Canals Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_canals_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_canals.56ae4549ece13ec63d017e7fa24dc0283572670f.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I4M28baBSM_fGWzSvzedxuPUnF3vgx0kmtznSyoyreSqea1UoD5Z0RrZetBm-lt3nPu_r5waP2d9FnDK-0H3tyRypkA"
@@ -18106,7 +18106,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Chop Shop Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_chopshop_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_chopshop.b6ed206d7164f48594212559a70312123a12f9b5.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I4M23bahhL-esAm6Xyfo44rZsF3jmwU53tmyDzYv6cHnCalQhXMckEe9Y5kXplIC0NrzrtAfcipUFk3th3T45rw"
@@ -18138,7 +18138,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Norse Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_norse_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_norse.d91172d71b95efb4e334d194cf6b0a5ab9621e8c.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I_82ve6NsMvSsGWaczdF6ueZhW2e1xxwlsTyHn9r_ICmQPAd2CJZyQ7IC5hiwltzuY-u34wyLjYtFni6vkGoXubfBxhfQ"
@@ -18154,7 +18154,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Dust 2 Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_dust_2_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_dust_2_2021.318944ebb9e3dae51cd87d38b5d3584a2fa9425f.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I_82qbbdoMuSsHWyFzeJlj-1gSCGn20Uk5WTSytmqJH6XbwMoA8RyRuBY4Ea6kNC2Y-Oz7gbc3o9HxS2r2n5XrnE8gS50bog"
@@ -18186,7 +18186,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cache Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cache_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cache.1bdc24f9fbd7532a2eb3e26d6ac33e52fc4a0efc.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I_82gfa9oM-SBB3eV_uN3ou5mQRagkkhy4AKJk4jxNWWSZlAhA5QjFLJYukLpwdLjZe60sgzYjtpCxC2oi3tB6C5ot-pQWaJ35OSJ2GFfvLbQ"
@@ -18266,7 +18266,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Vertigo Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_vertigo_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_vertigo_2021.611413bf4d18e0c888054707dff98c612049f097.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1a4s2tabZvL_6sCG6SxPxJvOhuRz39kU9y4GvVyYygdniXaVd0DMckQ-dZtRK-moe0Murl5lHZgosUzSuv2DQJsHj4wzVBbg"
@@ -18282,7 +18282,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Control Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ct_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ct.aaf2dd57a339a610de6f4514a76eb1e846647cc0.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1a4s2nZrBoLPyaCWKewutJv_NoQS62qhEutDWR1ImuJy_BagUgDMR1ROVbthK6xofvNrnk5lHditpByCz3iC9M7Cdv4ekcEf1ytraGvsY"
@@ -18458,7 +18458,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Dust 2 Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_dust_2_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_dust_2_2021.318944ebb9e3dae51cd87d38b5d3584a2fa9425f.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1Y-s29e6M9eM-ADWiC0ed5vt5lRi67gVMh6jjTn9ygJSieaAEiAsB2F7Jfshe-xtHkPuvisQLXgt8UmCz523lM8G81tFON4mQ2"
@@ -18602,7 +18602,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The St. Marc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_stmarc_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_stmarc.00c570e3e140452c95e68bfa4868c9ce1c5dc1c4.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1T9s2oZKt6JeKAMXSEzO9ks95lRi67gVMl5DuEm9ereCmVawImWZMhRLIDu0a7ktKzN7nq5lePi41Bn3r83H8b8G81tNArbz2X"
@@ -18634,7 +18634,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Canals Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_canals_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_canals.56ae4549ece13ec63d017e7fa24dc0283572670f.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1T9s28bapSL-KSAGCV_uJ_t-l9AXy3l093sjnSn9_6cnjBPAEhDMNwR-FbtEKwldzkM--05Afej4JGmSzgznQeBdxl634"
@@ -18650,7 +18650,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Overpass Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_overpass.3b85a46ee2d4424367831a3f5994bf59f19f08bd.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1T9s29e6M9eM-eD3WbxPxJvOhuRz39lxsm6m_XmdugcnOXaFMlD5ImEbQP5kW4kICyM-vj5wXc2dkUzHqoiDQJsHjAk3eMVA"
@@ -18666,7 +18666,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Train Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_train_2021.a000b6d4ae1978aeced8ec31aa8ef5a0014dae29.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1T9s26eqVkLvGBDW-Z1et1pN5uXSy2myIrujqNjsGpeCjCOlMgWJZ0E7JfthfuktPmY-Pk7lON2Y5AyCr-iCtOuitr5O1RT-N7rXhDFbfv"
@@ -18730,7 +18730,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Norse Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_norse_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_norse.d91172d71b95efb4e334d194cf6b0a5ab9621e8c.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1I4M28fapoH-OHAWmV_uJ_t-l9AX_gkxl25W6AzIupcyqVagcjCJp4EeBctRHrx9KxMb6x5FONiotAnyXgznQeYtQapjc"
@@ -18826,7 +18826,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Ancient Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ancient_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ancient.e90a2018381216be882d96c9e6c314d99f5097fa.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1I_826abRoH-ObAXWE_uRjvuZlSha_nBovp3PUz9-pcnuXPQMpCMZwQ-UM5xixmtGxN-7n4wWKiN5DySivhyxJ5ixj_a9cBvFEfbOR"
@@ -18842,7 +18842,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Mirage Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_mirage_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_mirage_2021.f1c9b5169b9fb9d6e0933baba0514dd34d6c9e19.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1I_820baZ_IfOSA1iCxOpJvOhuRz39zBwmt2mAyI6rInrGaVd1X5N0Re8OshO5mtbvMr7q5wGIg95BmSX5ijQJsHiun1hzCg"
@@ -19274,7 +19274,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Ancient Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ancient_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ancient.e90a2018381216be882d96c9e6c314d99f5097fa.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wipC0POga61oLuSsGm6cxP1JoORoTCGMmRQguynLm4qpJ3PDaQ9zXpIjQ-AJ4xawlNOzMrjktVPZ349AmS323Xga534-tvFCD_QT7Lx_Ug"
@@ -19290,7 +19290,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Rising Sun Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kimono_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kimono.eec9d131eed8efec7910f137cf0cadb710e576c8.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wipC0PCvZaZiL8-ZG2mXzetJvOhuRz39kx90sjiBn9apcnPBOwRyDJcjTeUKtxbpwNzkZLm04geLjIsXzSivjTQJsHikA0D9yg"
@@ -19322,7 +19322,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Rising Sun Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kimono_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kimono.eec9d131eed8efec7910f137cf0cadb710e576c8.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wipC0PWrZ6loNOKaDViD1etmo95wSiW_mgoYvzSCkpu3eHySPQUmCsF5EeYMu0PuwNe1Nby25AHejY5Myn_5jnxL6S864OoLAL1lpPNSa1bCHA"
@@ -19338,7 +19338,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Gods and Monsters Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_gods_and_monsters_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_gods_and_monsters.c66f30b18e90e05e6a727c5cda23912ffe49ffaf.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wipC0PqvbKF-H_yaCW-Ej7chtLM9F322lkhxsm7Xyon_Ii-ePAYiD5ElEOUK4ETqx9DmZb_qsgDAy9USH97bt-4"
@@ -19354,7 +19354,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Train Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_train_2021.a000b6d4ae1978aeced8ec31aa8ef5a0014dae29.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wipC0P-re6xSM_GVC3OJzvx3vuZscCW6khUz_WnSyIytcXPBPw8oDpMkQeIPuxjtxoWyYuOztVTX3okXyy3_2y9N6Xp1o7FVepitb8I"
@@ -19370,7 +19370,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Canals Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_canals_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_canals.56ae4549ece13ec63d017e7fa24dc0283572670f.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wipC0P-7eqVjL8-cHGaexutJvOhuRz39xUpx5GiEzIqrJy6Qaw9yW5MjFuUDuxe4kILgNe-wsQaIioxNmX2s3zQJsHgf4ROQiw"
@@ -19386,7 +19386,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cache Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cache_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cache.1bdc24f9fbd7532a2eb3e26d6ac33e52fc4a0efc.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wipC0Py7a6hoIeKsHWyFzeJl5d59SirqqhEutDWR1N2pc3PFbgYgDMF5TbVZ5hfsk93hP7u2tQzf2t0RxSuviiJN5ydo5bwcEf1yPyH7PX0"
@@ -19402,7 +19402,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Havoc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_t_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_t.18b6dd49906d15a5f44f1477ca6139c7ab491197.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wipC0OKmZ6FjKeisGmaX0tF6ue1oTBa_nBovp3PTnNuoIH2TPw9xApB0EOQK5kK-k93gNrjr4QSPj4JEnH__jy0d7io4_a9cBnAYh6IJ"
@@ -19562,7 +19562,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The St. Marc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_stmarc_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_stmarc.00c570e3e140452c95e68bfa4868c9ce1c5dc1c4.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wjFL0P6raaJSL-KSAGCV_uJ_t-l9AXnhxUxz5mXSmd2sJ3yfagAjDJp4EeReuxHqwNfnY-O0tQSPjINNz3rgznQeAmDb9hs"
@@ -19626,7 +19626,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Vertigo Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_vertigo_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_vertigo_2021.611413bf4d18e0c888054707dff98c612049f097.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1a7s2rZqNkLvWsHmKCx-FkveBnTCyMmRQguynLwo2reHmVbgQkApR1FrNc50KwmoazMbyw4VHeioJBziX-hiocvH1otvFCD_SLOTiQGw"
@@ -19642,7 +19642,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Dust 2 Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_dust_2_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_dust_2_2021.318944ebb9e3dae51cd87d38b5d3584a2fa9425f.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1a7s2oaaBoH-WeHlicyOl-pK8_HHzmzU52sTjWntegc32faAR2DMEkELMI4xmxw4G1Yrnn4FCM3d4Q02yg2U-vv27j"
@@ -19754,7 +19754,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Gods and Monsters Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_gods_and_monsters_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_gods_and_monsters.c66f30b18e90e05e6a727c5cda23912ffe49ffaf.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1Y-s2iaaZ0MvmdGm-vzedxuPUnHSiwwUUh5jndn939dC2QaVApXJdwR7Ncsxe8xtWyMrmwtAWIjohGzzK-0H1h0wYN6w"
@@ -19914,7 +19914,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Control Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ct_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ct.aaf2dd57a339a610de6f4514a76eb1e846647cc0.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1Y-s27ZbRSI-KaA2Kv0u1zvuRWQyC0nQlpt2SEmdiheHiUalMnCJd4FuFb5xHul4LjMu3q5gPX2N0QyC-siXsY7DErvbhN2TV12A"
@@ -19994,7 +19994,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The St. Marc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_stmarc_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_stmarc.00c570e3e140452c95e68bfa4868c9ce1c5dc1c4.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1T9s2sZKtiLc-BC2OvzedxuPUnGHDmxEl-5mWGzYysdiifP1dzDZMmQe9ZsBnrl9yzZOPrtQTaj9lAxDK-0H1hFDwwPA"
@@ -20058,7 +20058,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Havoc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_t_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_t.18b6dd49906d15a5f44f1477ca6139c7ab491197.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1T9s2mZ7FjJOOHAWiEydF0ou5-QRa_nBovp3PWyYmtJH3BZlQnXJclEecN4xLrwYCzMLy24waNjtlMxCv93SpJ7H5o_a9cBoyJn1nJ"
@@ -20106,7 +20106,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Train Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_train_2021.a000b6d4ae1978aeced8ec31aa8ef5a0014dae29.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1T9s24abZkI_GeAViCxOpJvOhuRz39zBwi6zvUm4ypdXrDOAUkDMF2ELJf5BG4k9DuMenh4VOMgo1DzCT4jDQJsHiJeUvUrw"
@@ -20138,7 +20138,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cobblestone Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cobblestone_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cobblestone.7f470f4ad76920182d29cafc4a7fcbbb5de0e3ec.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1I4M2nZqBkJ_-sD2mU_ulktfhWQyC0nQlp4WjTyN78In-Wb1QgDcNzRLUI5ka4wdfjPruxswbdgopGzHj73yNLvzErvbhz6ja6HQ"
@@ -20170,7 +20170,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Overpass Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_overpass.3b85a46ee2d4424367831a3f5994bf59f19f08bd.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1I_82qabR9LPWsAm6Xyfo46bMxGn-3x00m4m-HzN2sIH6SZwQpWJVwQu4MuhK5xIXiMuO24QLej5UFk3vMYylqRQ"
@@ -20314,7 +20314,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Mirage Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_mirage_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_mirage_2021.f1c9b5169b9fb9d6e0933baba0514dd34d6c9e19.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSIf2sCmOAwPpJoPR7XyW2qhEutDWR1N-rcHPBPFMiDZUkF-9Z4ETtxtDkYu3js1ffg94Tnn2o3yMavH0957ocEf1yWMwziKM"
@@ -20346,7 +20346,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Control Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ct_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ct.aaf2dd57a339a610de6f4514a76eb1e846647cc0.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSIf2sB2mExOJ6ueZsQSq2qhAmtDiLjo7GLSLANkI-XpZxE-4MtxW5ldeyZbvq51PXid9EzSr6iSof7y1t47lQAqRxrvCEjxaBb-PT-N1SiA"
@@ -20362,7 +20362,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Dust 2 Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_dust_2_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_dust_2_2021.318944ebb9e3dae51cd87d38b5d3584a2fa9425f.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSIf2sAm6KwPxyj_NsSxa_nBovp3OHn4qqcX3FbQMgD5okQeFYtBbsktLmMeux5leLjIIXxXn4i3wdvC9s_a9cBikK0tGN"
@@ -20586,7 +20586,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Overpass Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_overpass.3b85a46ee2d4424367831a3f5994bf59f19f08bd.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSI-WsG3SA_v13vuV5Tjm2hxgjjDGMnYftby2UaFcmCsF1R-cLsBS4mtLmM7nmsVbfiNlHxSuriypAvytisuhQWPY7uvqAwrOwBmU"
@@ -20746,7 +20746,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cobblestone Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cobblestone_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cobblestone.7f470f4ad76920182d29cafc4a7fcbbb5de0e3ec.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSKOmsB2mUyOl5j_R6Xxa_nBovp3OAzNv6d3yVbVBxAsNzReNZuxK8kIHnNurj4wTaiNlBnH6q3CMYv3po_a9cBsy26Gzj"
@@ -20810,7 +20810,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Chop Shop Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_chopshop_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_chopshop.b6ed206d7164f48594212559a70312123a12f9b5.png"
     },
     "releaseYear": 2015,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSM_-sBW-RyudJt_NsSieMmRQguynLw9erJynFawZ0XMd0FLVZ5he4lIe0Puvq4gDfi9oQyy3_j3gd6Hw65PFCD_QfWpQsfw"
@@ -20826,7 +20826,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Train Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_train_2021.a000b6d4ae1978aeced8ec31aa8ef5a0014dae29.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSM_-sGW-Z1et5pfVWXSCjgRQjtgKJk4jxNWXCbQQpCJF1QLINsUbrlofgNunj5lSLg4sXnCT8jS5Oun445O8CUqUt5OSJ2Dgwztii"
@@ -20874,7 +20874,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Ancient Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ancient_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ancient.e90a2018381216be882d96c9e6c314d99f5097fa.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSM-CsD2mTyOt4pN5rXSC0nQkYvzSCkpu3eHiSOAB0DsMkTOcJtRjtwNG1ZOvq4wDe2t1AzCuojy1JvSpp4ewKVr1lpPOm90TY1A"
@@ -20890,7 +20890,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Norse Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_norse_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_norse.d91172d71b95efb4e334d194cf6b0a5ab9621e8c.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSM-CsAmaS2Px_vvVhHRa_nBovp3PQzImpJHuTa1InCsEhF-cDsxjplIGxN7nqtlfdgotHyy6viylN6Sxj_a9cBrrpg9X-"
@@ -20986,7 +20986,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Ancient Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ancient_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ancient.e90a2018381216be882d96c9e6c314d99f5097fa.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk7v-RaapuKfWdGliHwPx7j-1gSCGn204k626ByIqteX-TbAQjCcAhRbFcsUK5ktbhYb_j5VePi4JMnyX4in5XrnE8pNPbCik"
@@ -21002,7 +21002,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Control Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_op10_ct_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ct.aaf2dd57a339a610de6f4514a76eb1e846647cc0.png"
     },
     "releaseYear": 2020,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk7v-RabF5KP-BB3OJ_uxkv_ZncCW6khUz_W3Tw9ypcXmSbwQoC5IlRbRZ4RK5wNLlNeq04AbXjopHnC_8hyoY7C11o7FVhjRGDrg"
@@ -21018,7 +21018,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Norse Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_norse_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_norse.d91172d71b95efb4e334d194cf6b0a5ab9621e8c.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk7v-RY6piNOOsHW6c1-tkj-1gSCGn20V05W2Dw9v8ICjGbQMkWJd4TedZtRGxkNDnNOjqsgGN34MXxX76jH9XrnE82FMLyIU"
@@ -21034,7 +21034,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Mirage Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_mirage_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_mirage_2021.f1c9b5169b9fb9d6e0933baba0514dd34d6c9e19.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk7v-RZat_L8-HC3-EyOJzj-N7Ri67gSIrujqNjsGqJX3BagJxDcFwROJbtkLpltHlNOPi4AyLjN8UxX33hypK6Hw_se0GT-N7rUzICquq"
@@ -21050,7 +21050,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Cache Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_cache_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cache.1bdc24f9fbd7532a2eb3e26d6ac33e52fc4a0efc.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk7v-RZrFuLPWSHFiDyvt6vPI4cDG-xE125wKJk4jxNWWSbgApXpBzRbFfsEXrlNyyMOKx5lSNgt5FySSohy9OvCZr5uYHA_F35OSJ2NlEZ-xJ"
@@ -21418,7 +21418,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The St. Marc Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_stmarc_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_stmarc.00c570e3e140452c95e68bfa4868c9ce1c5dc1c4.png"
     },
     "releaseYear": 2019,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk5-uRZKFsJs-UHGKVz9F6ueZhW2e3zRlxsTvVzdqpdy6eOwF0X8ciQOcD5hjqwNLmNu7isQHfjY1Cz3mvkGoXuYSrXADo"
@@ -21450,7 +21450,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The Overpass Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_overpass.3b85a46ee2d4424367831a3f5994bf59f19f08bd.png"
     },
     "releaseYear": 2014,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk5-uRfqV_KfOSA2ivw-Jjtd5lRi67gVN0tmTdyN-gJy2fb1AjCcFzFOYDu0btxNDkYr_k4APXg4JNxXn32n5L8G81tKBcQXWQ"
@@ -21610,7 +21610,7 @@ export const skinsArr = [
     },
     "collection": {
       "name": "The 2021 Vertigo Collection",
-      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_vertigo_2021_png.png"
+      "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_vertigo_2021.611413bf4d18e0c888054707dff98c612049f097.png"
     },
     "releaseYear": 2021,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk_OKRfK1_Jc-HHGKRxdF0vPRscCW6khUz_T7Vydn7dS6UZ1ciD8YhE7Je4Rm-l4bjN-mxtVaPi9lMxSqqjy9B7Xx1o7FVHG_KYuo"
