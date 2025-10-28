@@ -11,7 +11,7 @@ const form = document.getElementById('form');
 const inputGuess = document.getElementById('inputGuess');
 const divGuesses = document.getElementById('divGuesses');
 const buttonRestart = document.getElementById('buttonRestart');
-const divGuessesCount = document.getElementById('divGuessesCount');
+const h3GuessesCount = document.getElementById('h3GuessesCount');
 let firstResult;
 let guessesCount = 0;
 
@@ -111,7 +111,9 @@ function guess(skin) {
 
   if(skin === answer) {
     inputGuess.blur();
-    divGuessesCount.innerText = guessesCount;
+    document.body.style.overflow = 'hidden';
+    document.documentElement.scrollTop = 0;
+    h3GuessesCount.innerText = 'Guesses needed: ' + guessesCount;
     divOverlay.style.display = 'flex';
   }
 }
