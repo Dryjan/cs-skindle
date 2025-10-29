@@ -99,7 +99,7 @@ img.MJ {
   height: 100vh;
   background-image: 
     linear-gradient(to top, black 0%, transparent 100%),
-    url(./background.jpg);
+    url(../img/background.jpg);
   background-size: 100% 100%, 100% 100%;
 }
 

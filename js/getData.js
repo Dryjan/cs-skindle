@@ -1,5 +1,5 @@
 import { promises as fs } from 'fs';
-import { collectionsObj } from './collectionsObj.js';
+import { collectionsYears } from './collectionsYears.js';
 
 async function writeFileExample(data) {
   try {
@@ -32,7 +32,7 @@ fetch('https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/ski
             'name': element.collections[0].name,
             'image': element.collections[0].image
           },
-          'releaseYear': collectionsObj[element.collections[0].name],
+          'releaseYear': collectionsYears[element.collections[0].name],
           'image': element.image
         }
         skinsArray.push(skin);

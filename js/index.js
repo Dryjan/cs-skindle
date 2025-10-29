@@ -1,4 +1,4 @@
-import { skinsArr } from './dataScripts/skinsArr.js';
+import { skinsArr } from './skinsArr.js';
 console.log(skinsArr);
 
 const answer = skinsArr[Math.floor(Math.random() * skinsArr.length)];

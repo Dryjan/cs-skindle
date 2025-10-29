@@ -1,4 +1,4 @@
-export const collectionsObj = {
+export const collectionsYears = {
   "The Huntsman Collection": 2014,
   "The Arms Deal Collection": 2013,
   "The eSports 2013 Collection": 2013,
