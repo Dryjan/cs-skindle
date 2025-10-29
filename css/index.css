@@ -17,6 +17,24 @@ body {
   margin: 0;
 }
 
+#divBackground {
+  position: fixed;
+  z-index: -1;
+  width: 100%;
+  height: 100vh;
+  background-image: 
+    linear-gradient(to top, black 0%, transparent 100%),
+    url(../img/background.jpg);
+  background-size: auto 100%;
+  background-position: center;
+}
+
+@media (min-aspect-ratio: 4800/2480) {
+  #divBackground {
+    background-size: 100% auto;
+  }
+}
+
 #h1Title {
   font-family: High-Speed;
   font-size: 400%;
@@ -104,17 +122,6 @@ img.MJ {
   justify-content: center;
   text-align: center;
   align-items: center;
-}
-
-#divBackground {
-  position: fixed;
-  z-index: -1;
-  width: 100vw;
-  height: 100vh;
-  background-image: 
-    linear-gradient(to top, black 0%, transparent 100%),
-    url(../img/background.jpg);
-  background-size: 100% 100%, 100% 100%;
 }
 
 #divContainer {
