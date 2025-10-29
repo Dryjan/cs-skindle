@@ -27,47 +27,98 @@ body {
     url(../img/background.jpg);
   background-size: auto 100%;
   background-position: center;
-}
+} 
 
-@media (min-aspect-ratio: 4800/2480) {
+@media(min-aspect-ratio: 4800/2480) {
   #divBackground {
     background-size: 100% auto;
   }
 }
 
+#divContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+
 #h1Title {
   font-family: High-Speed;
-  font-size: 400%;
+  font-size: 4vw;
 }
 
 #divResults {
   display: flex;
   flex-direction: column-reverse;
-  width: 236px;
-  height: 100px;
+  width: 20vw;
+  height: 180px;
   overflow-y: auto;
-  margin-top: 100px;
+}
+
+.divResult {
+  background-color: #404040c0;
+  font-size: 1.3vw;
+  padding: 0.6vw;
+}
+
+.divResult:hover {
+  filter: brightness(120%);
+}
+
+#form {
+  display: flex;
+  justify-content: space-between;
+  width: 20vw;
+}
+
+#inputGuess {
+  background-color: #60606080;
+  border: 1px solid #606060;
+  font-size: 1.3vw;
+  padding: 0.5vw;
+  width: 70%;
+  border-radius: 0.5vw;
+}
+
+#inputGuess::placeholder {
+  color: #202020;
+}
+
+#inputGuess:focus {
+  outline: 0;
+}
+
+#buttonGuess {
+  background-color: #60606080;
+  border: none;
+  width: 20%;
+  font-size: 1.3vw;
+  border-radius: 0.5vw;
+}
+
+#buttonGuess:hover {
+  filter: brightness(120%);
 }
 
 #divGuesses {
   display: flex;
   flex-direction: column-reverse;
-  width: 550px;
-  margin-top: 25px;
+  width: 30vw;
+  margin-top: 1vw;
 }
 
 .divGuess {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 20px;
+  margin-bottom: 1.1vw;
 }
 
 .guessChild {
-  width: 100px;
-  height: 100px;
-  border: 2px solid red;
+  width: 18.5%;
+  aspect-ratio: 1/1;
+  border: 0.15vw solid red;
   background-color: #80808080;
-  font-size: 130%;
+  font-size: 1vw;
 }
 
 div.guessChild {
@@ -121,12 +172,5 @@ img.MJ {
   display: flex;
   justify-content: center;
   text-align: center;
-  align-items: center;
-}
-
-#divContainer {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
   align-items: center;
 }

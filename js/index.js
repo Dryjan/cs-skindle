@@ -21,7 +21,7 @@ function createResults() {
     divResult.id = element.name;
     divResult.className = 'divResult';
     divResult.innerText = element.name;
-    divResult.style.backgroundColor = element.rarity.color;
+    divResult.style.color = element.rarity.color;
     divResult.style.display = 'none';
     divResult.onclick = function() { guess(element) };
     divResults.appendChild(divResult);
