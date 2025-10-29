@@ -27,7 +27,6 @@ function createResults() {
     divResults.appendChild(divResult);
   });
 }
-createResults();
 
 function showResults() {
   const inputValue = inputGuess.value;
@@ -134,5 +133,7 @@ buttonRestart.addEventListener('click', function() {
   location.reload();
 });
 
+createResults();
 divAnswerImage.src = answer.image;
 divAnswerName.innerText = answer.name;
+document.body.style.visibility = 'visible';
