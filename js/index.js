@@ -80,9 +80,9 @@ function createGuess(skin) {
   guessRel.className = 'guessChild';
   guessRel.innerText = skin.releaseYear;
   if(skin.releaseYear < answer.releaseYear) {
-    guessRel.innerText += ' ⬆️';
+    guessRel.innerText += ' ⬆';
   } else if(skin.releaseYear > answer.releaseYear) {
-    guessRel.innerText += ' ⬇️';
+    guessRel.innerText += ' ⬇';
   }
   if(skin.releaseYear === answer.releaseYear) {
     guessRel.style.borderColor = 'green';

@@ -1,10 +1,25 @@
+@font-face {
+  font-family: 'High-Speed';
+  src: url(../fonts/HighSpeed/regular.ttf);
+}
+
+@font-face {
+  font-family: 'StratumNo2';
+  src: url(../fonts/StratumNo2/bold.otf);
+}
+
 * {
   user-select: none;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: StratumNo2;
 }
 
 body {
   margin: 0;
+}
+
+#h1Title {
+  font-family: High-Speed;
+  font-size: 400%;
 }
 
 #divResults {
@@ -19,7 +34,6 @@ body {
 #divGuesses {
   display: flex;
   flex-direction: column-reverse;
-  gap: 20px;
   width: 550px;
   margin-top: 25px;
 }
@@ -27,6 +41,7 @@ body {
 .divGuess {
   display: flex;
   justify-content: space-between;
+  margin-bottom: 20px;
 }
 
 .guessChild {
@@ -34,8 +49,7 @@ body {
   height: 100px;
   border: 2px solid red;
   background-color: #80808080;
-  font-weight: bold;
-  font-size: 120%;
+  font-size: 130%;
 }
 
 div.guessChild {
@@ -61,7 +75,7 @@ img.MJ {
   z-index: 1;
   width: 100vw;
   height: 100vh;
-  background-color: #000000b0;
+  background-color: #00000080;
 }
 
 #divSummary {
