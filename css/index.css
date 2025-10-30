@@ -8,20 +8,26 @@
   src: url(../fonts/StratumNo2/bold.otf);
 }
 
+:root {
+  color-scheme: light;
+}
+
 * {
   user-select: none;
   font-family: StratumNo2;
+  scrollbar-color: #888 #333;
 }
 
 body {
   visibility: hidden;
   margin: 0;
+  overflow-y: scroll;
 }
 
 #divBackground {
   position: fixed;
   z-index: -1;
-  width: 100%;
+  width: 100vw;
   height: 100vh;
   background-image: 
     linear-gradient(to top, black 0%, transparent 100%),
@@ -45,21 +51,22 @@ body {
 
 #h1Title {
   font-family: High-Speed;
-  font-size: 4vw;
+  font-size: 8vh;
+  margin: 5vh 0 2.5vh 0;
 }
 
 #divResults {
   display: flex;
   flex-direction: column-reverse;
-  width: 20vw;
-  height: 10.4vw;
+  width: 40vh;
+  height: 20vh;
   overflow-y: auto;
 }
 
 .divResult {
   background-color: #404040c0;
-  font-size: 1.3vw;
-  padding: 0.6vw;
+  font-size: 2.5vh;
+  padding: 1vh;
 }
 
 .divResult:hover {
@@ -69,16 +76,16 @@ body {
 #form {
   display: flex;
   justify-content: space-between;
-  width: 20vw;
+  width: 40vh;
 }
 
 #inputGuess {
-  background-color: #60606080;
-  border: 1px solid #606060;
-  font-size: 1.3vw;
-  padding: 0.5vw;
+  background-color: #606060c0;
+  border: 0.3vh solid #606060;
+  font-size: 2.5vh;
+  padding: 1vh;
   width: 70%;
-  border-radius: 0.5vw;
+  border-radius: 1vh;
 }
 
 #inputGuess::placeholder {
@@ -90,11 +97,11 @@ body {
 }
 
 #buttonGuess {
-  background-color: #60606080;
+  background-color: #606060c0;
   border: none;
   width: 20%;
-  font-size: 1.3vw;
-  border-radius: 0.5vw;
+  font-size: 2.5vh;
+  border-radius: 1vh;
 }
 
 #buttonGuess:hover {
@@ -104,22 +111,22 @@ body {
 #divGuesses {
   display: flex;
   flex-direction: column-reverse;
-  width: 30vw;
-  margin-top: 1vw;
+  width: 60vh;
+  margin-top: 2vh;
 }
 
 .divGuess {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 1.1vw;
+  margin-bottom: 1.7vh;
 }
 
 .guessChild {
   width: 18.5%;
   aspect-ratio: 1/1;
-  border: 0.15vw solid red;
+  border: 0.3vh solid red;
   background-color: #80808080;
-  font-size: 1vw;
+  font-size: 2.3vh;
 }
 
 div.guessChild {

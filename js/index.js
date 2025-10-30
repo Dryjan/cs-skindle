@@ -114,7 +114,7 @@ function guess(skin) {
     inputGuess.blur();
     document.body.style.overflow = 'hidden';
     document.documentElement.scrollTop = 0;
-    h3GuessesCount.innerText = 'Guesses needed: ' + guessesCount;
+    h3GuessesCount.innerText = 'Number of guesses: ' + guessesCount;
     divOverlay.style.display = 'flex';
   }
 }
