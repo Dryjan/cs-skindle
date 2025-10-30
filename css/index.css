@@ -213,3 +213,90 @@ img.MJ {
 #buttonRestart:hover {
   filter: brightness(120%);
 }
+
+@media (max-aspect-ratio: 10/13) {
+  #h1Title {
+    font-size: 10vw;
+    margin: 6.25vw 0 3.125vh 0;
+  }
+
+  #divResults {
+    width: 50vw;
+    height: 25vw;
+  }
+
+  .divResult {
+    font-size: 3.125vw;
+    padding: 1.25vw;
+  }
+
+  #form {
+    width: 50vw;
+  }
+
+  #inputGuess {
+    border-width: 0.375vw;
+    font-size: 3.125vw;
+    padding: 1.25vw;
+    border-radius: 1.25vw;
+  }
+
+  #buttonGuess {
+    font-size: 3.125vw;
+    border-radius: 1.25vw;
+  }
+
+  #divGuesses {
+    width: 75vw;
+    margin-top: 2.5vw;
+  }
+
+  .divGuess {
+    margin-bottom: 2.125vw;
+  }
+
+  .guessChild {
+    border-width: 0.375vw;
+    font-size: 2.875vw;
+  }
+
+  #divSummary {
+    padding: 6.25vw;
+    border-width: 0.375vw;
+    border-radius: 2.5vw;
+  }
+
+  #h1Quote {
+    font-size: 5vw;
+  }
+
+  #h2AnswerLabel {
+    font-size: 3.75vw;
+  }
+
+  #divAnswer {
+    gap: 1.25vw;
+  }
+
+  #divAnswerImage {
+    width: 25vw;
+    height: 25vw;
+  }
+
+  #divAnswerName {
+    width: 25vw;
+    height: 25vw;
+    font-size: 2.5vw;
+  }
+
+  #h2GuessesCount {
+    font-size: 3.75vw;
+  }
+
+  #buttonRestart {
+    font-size: 3.75vw;
+    border-radius: 1.25vw;
+    padding: 2.5vw;
+    margin-top: 2.5vw;
+  }
+}
