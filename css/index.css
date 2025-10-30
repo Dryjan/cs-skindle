@@ -21,6 +21,7 @@
 body {
   visibility: hidden;
   margin: 0;
+  overflow-x: hidden;
   overflow-y: scroll;
 }
 
@@ -159,26 +160,56 @@ img.MJ {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: white;
-  padding: 50px;
+  background-image: linear-gradient(to top, #333 0%, lightblue 100%);
+  padding: 5vh;
+  border: 0.3vh solid rgb(91, 157, 243);
+  border-radius: 2vh;
+}
+
+#h1Quote {
+  font-style: italic;
+  font-size: 4vh;
+  margin-top: 0;
+}
+
+#h2AnswerLabel {
+  font-size: 3vh;
 }
 
 #divAnswer {
   display: flex;
-  gap: 10px;
+  gap: 1vh;
 }
 
 #divAnswerImage {
-  width: 160px;
-  height: 160px;
+  width: 20vh;
+  height: 20vh;
   object-fit: contain;
 }
 
 #divAnswerName {
-  width: 160px;
-  height: 160px;
+  width: 20vh;
+  height: 20vh;
   display: flex;
   justify-content: center;
   text-align: center;
   align-items: center;
+  font-size: 2vh;
+}
+
+#h2GuessesCount {
+  font-size: 3vh;
+}
+
+#buttonRestart {
+  background-color: #add8e680;
+  border: none;
+  font-size: 3vh;
+  border-radius: 1vh;
+  padding: 2vh;
+  margin-top: 2vh;
+}
+
+#buttonRestart:hover {
+  filter: brightness(120%);
 }

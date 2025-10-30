@@ -11,7 +11,7 @@ const form = document.getElementById('form');
 const inputGuess = document.getElementById('inputGuess');
 const divGuesses = document.getElementById('divGuesses');
 const buttonRestart = document.getElementById('buttonRestart');
-const h3GuessesCount = document.getElementById('h3GuessesCount');
+const h2GuessesCount = document.getElementById('h2GuessesCount');
 let firstResult;
 let guessesCount = 0;
 
@@ -114,7 +114,7 @@ function guess(skin) {
     inputGuess.blur();
     document.body.style.overflow = 'hidden';
     document.documentElement.scrollTop = 0;
-    h3GuessesCount.innerText = 'Number of guesses: ' + guessesCount;
+    h2GuessesCount.innerText = 'Number of guesses: ' + guessesCount;
     divOverlay.style.display = 'flex';
   }
 }
