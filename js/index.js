@@ -1,8 +1,8 @@
 import { skinsArr } from './skinsArr.js';
-console.log(skinsArr);
+// console.log(skinsArr);
 
 const answer = skinsArr[Math.floor(Math.random() * skinsArr.length)];
-console.log(answer);
+// console.log(answer);
 const divOverlay = document.getElementById('divOverlay');
 const divAnswerName = document.getElementById('divAnswerName');
 const divAnswerImage = document.getElementById('divAnswerImage');
@@ -44,7 +44,7 @@ function showResults() {
 
   divResults.scrollTop = -divResults.scrollHeight + divResults.clientHeight;
 
-  console.log('firstResult:', firstResult);
+  // console.log('firstResult:', firstResult);
 }
 
 function createGuess(skin) {
@@ -106,7 +106,7 @@ function guess(skin) {
   createGuess(skin);
 
   skinsArr.splice(skinsArr.indexOf(skin), 1);
-  console.log('Guesed skin:', skin);
+  // console.log('Guesed skin:', skin);
 
   inputGuess.focus();
 
